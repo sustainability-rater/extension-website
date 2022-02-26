@@ -5,6 +5,6 @@ document.querySelectorAll(".rating-bar").forEach((bar) => {
 });
 
 let params = new URLSearchParams(document.location.search);
-console.log(params.get("website"));
+console.log(params.get("website"), window.parent);
 
-window.postMessage(document.body.scrollHeight, "*");
+window.parent.postMessage(document.body.scrollHeight, "*");
