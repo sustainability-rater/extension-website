@@ -7,4 +7,7 @@ document.querySelectorAll(".rating-bar").forEach((bar) => {
 let params = new URLSearchParams(document.location.search);
 console.log(params.get("website"), window.parent);
 
-window.parent.postMessage(document.body.scrollHeight, "*");
+setInterval(() => {
+    window.parent.postMessage("hello", "*");
+    window.postMessage("hello 2", "*");
+}, 1000);
