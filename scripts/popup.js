@@ -1,9 +1,3 @@
-document.querySelectorAll(".rating-bar").forEach((bar) => {
-    let val = bar.getAttribute('value')
-    bar.style.width = val * 100 + '%';
-    bar.style.backgroundColor = `rgb(90, ${199 * val}, ${120 * (val)})`;
-});
-
 let params = new URLSearchParams(document.location.search);
 
 (async () => {
@@ -13,4 +7,10 @@ let params = new URLSearchParams(document.location.search);
     for (let key in relevent_data) {
         if (key !== "company") document.querySelector(`#${key}`).setAttribute("value", relevent_data[key])
     }
+    document.querySelectorAll(".rating-bar").forEach((bar) => {
+        let val = bar.getAttribute('value')
+        bar.style.width = val * 100 + '%';
+        bar.style.backgroundColor = `rgb(90, ${199 * val}, ${120 * (val)})`;
+    });    
 })()
+
