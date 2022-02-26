@@ -78,7 +78,7 @@ h2 {
   font-size: 0.7em;
 }
 
-.score {
+#score {
   font-weight: bold;
   padding: 2px 5px;
   background: lightgreen;
