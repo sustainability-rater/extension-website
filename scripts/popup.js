@@ -5,3 +5,8 @@ document.querySelectorAll(".rating-bar").forEach((bar) => {
 });
 
 let params = new URLSearchParams(document.location.search);
+
+(async () => {
+    let data = await fetch("./data.json")
+    data = await data.json()
+})()
