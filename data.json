@@ -1,10 +1,2502 @@
-{
-    "enabled_websites": [
-        "amazon.co.uk",
-        "amazon.com",
-        "ebay.co.uk",
-        "ebay.com",
-        "asos.com",
-        "shein.co.uk"
-    ]
-}
+[
+    {
+      "company": "Abercrombie & Fitch",
+      "policy": 0.57,
+      "governance": 0.31,
+      "traceability": 0.09,
+      "ksf": 0.21,
+      "spotlight_issues": 0.12,
+      "overall": 0.2,
+      "website": "Https://www.abercrombie.com"
+    },
+    {
+      "company": "Adidas",
+      "policy": 0.91,
+      "governance": 0.62,
+      "traceability": 0.58,
+      "ksf": 0.49,
+      "spotlight_issues": 0.39,
+      "overall": 0.54,
+      "website": "Https://www.adidas.co.uk"
+    },
+    {
+      "company": "Aeropostale",
+      "policy": 0.17,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.06,
+      "spotlight_issues": 0,
+      "overall": 0.03,
+      "website": "Https://www.aeropostale.com"
+    },
+    {
+      "company": "Ajio",
+      "policy": 0.34,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.06,
+      "spotlight_issues": 0.02,
+      "overall": 0.07,
+      "website": "Https://www.ajio.com"
+    },
+    {
+      "company": "Aldi Nord",
+      "policy": 0.64,
+      "governance": 0.38,
+      "traceability": 0.16,
+      "ksf": 0.26,
+      "spotlight_issues": 0.14,
+      "overall": 0.25,
+      "website": "Https://www.aldi-nord.de"
+    },
+    {
+      "company": "Aldi South",
+      "policy": 0.73,
+      "governance": 0.46,
+      "traceability": 0.24,
+      "ksf": 0.3,
+      "spotlight_issues": 0.18,
+      "overall": 0.31,
+      "website": "Https://cr.aldisouthgroup.com"
+    },
+    {
+      "company": "Aldo",
+      "policy": 0.44,
+      "governance": 0.15,
+      "traceability": 0.01,
+      "ksf": 0.21,
+      "spotlight_issues": 0.1,
+      "overall": 0.14,
+      "website": "Https://aldoshoes.co.uk"
+    },
+    {
+      "company": "Amazon",
+      "policy": 0.7,
+      "governance": 0.31,
+      "traceability": 0.22,
+      "ksf": 0.21,
+      "spotlight_issues": 0.18,
+      "overall": 0.27,
+      "website": "Https://www.amazon.co.uk"
+    },
+    {
+      "company": "American Eagle",
+      "policy": 0.57,
+      "governance": 0.38,
+      "traceability": 0.01,
+      "ksf": 0.09,
+      "spotlight_issues": 0.12,
+      "overall": 0.16,
+      "website": "Https://www.ae.com/us/en"
+    },
+    {
+      "company": "Anta",
+      "policy": 0.23,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.09,
+      "spotlight_issues": 0.05,
+      "overall": 0.07,
+      "website": "Https://www.anta.co.uk"
+    },
+    {
+      "company": "Anthropologie",
+      "policy": 0.4,
+      "governance": 0.31,
+      "traceability": 0,
+      "ksf": 0.15,
+      "spotlight_issues": 0.18,
+      "overall": 0.16,
+      "website": "Https://www.anthropologie.com/en-gb/"
+    },
+    {
+      "company": "Aritzia",
+      "policy": 0.6,
+      "governance": 0.62,
+      "traceability": 0.01,
+      "ksf": 0.23,
+      "spotlight_issues": 0.2,
+      "overall": 0.23,
+      "website": "Https://www.aritzia.com"
+    },
+    {
+      "company": "Armani",
+      "policy": 0.66,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.09,
+      "spotlight_issues": 0.08,
+      "overall": 0.14,
+      "website": "Https://www.armani.com/en-gb"
+    },
+    {
+      "company": "Asda",
+      "policy": 0.71,
+      "governance": 0.62,
+      "traceability": 0.35,
+      "ksf": 0.34,
+      "spotlight_issues": 0.27,
+      "overall": 0.38,
+      "website": "Https://www.asda.com"
+    },
+    {
+      "company": "Asics",
+      "policy": 0.8,
+      "governance": 0.62,
+      "traceability": 0.54,
+      "ksf": 0.43,
+      "spotlight_issues": 0.34,
+      "overall": 0.49,
+      "website": "Https://www.asics.com/gb/en-gb/"
+    },
+    {
+      "company": "Asos",
+      "policy": 0.83,
+      "governance": 0.46,
+      "traceability": 0.62,
+      "ksf": 0.4,
+      "spotlight_issues": 0.24,
+      "overall": 0.47,
+      "website": "Https://www.asos.com/"
+    },
+    {
+      "company": "Balenciaga",
+      "policy": 0.85,
+      "governance": 0.85,
+      "traceability": 0.11,
+      "ksf": 0.45,
+      "spotlight_issues": 0.47,
+      "overall": 0.43,
+      "website": "Https://www.balenciaga.com/en-gb"
+    },
+    {
+      "company": "Bally",
+      "policy": 0.42,
+      "governance": 0.31,
+      "traceability": 0,
+      "ksf": 0.06,
+      "spotlight_issues": 0.17,
+      "overall": 0.14,
+      "website": "Https://www.bally.co.uk/en_gb/home"
+    },
+    {
+      "company": "Banana Republic",
+      "policy": 0.91,
+      "governance": 0.46,
+      "traceability": 0.45,
+      "ksf": 0.53,
+      "spotlight_issues": 0.35,
+      "overall": 0.49,
+      "website": "Https://www.bananarepublic.co.uk"
+    },
+    {
+      "company": "Bcbgmaxazria",
+      "policy": 0.05,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.06,
+      "spotlight_issues": 0,
+      "overall": 0.02,
+      "website": "Https://bcbg.com"
+    },
+    {
+      "company": "Beanpole",
+      "policy": 0.17,
+      "governance": 0.46,
+      "traceability": 0.01,
+      "ksf": 0,
+      "spotlight_issues": 0.06,
+      "overall": 0.07,
+      "website": "Https://www.ssfshop.com/beanpole/main?brandshopno=bdma01&brndshopid=bpbr"
+    },
+    {
+      "company": "Belle",
+      "policy": 0,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://www.belleloveclothing.co.uk"
+    },
+    {
+      "company": "Bershka",
+      "policy": 0.89,
+      "governance": 0.62,
+      "traceability": 0.01,
+      "ksf": 0.34,
+      "spotlight_issues": 0.42,
+      "overall": 0.36,
+      "website": "Https://www.bershka.com"
+    },
+    {
+      "company": "Big Bazaar - Ffb",
+      "policy": 0,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Shop.bigbazaar.com"
+    },
+    {
+      "company": "Big W",
+      "policy": 0.79,
+      "governance": 0.31,
+      "traceability": 0.2,
+      "ksf": 0.38,
+      "spotlight_issues": 0.12,
+      "overall": 0.29,
+      "website": "Https://www.bigw.com.au"
+    },
+    {
+      "company": "Billabong",
+      "policy": 0.02,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://www.billabong.co.uk"
+    },
+    {
+      "company": "Bloomingdale's",
+      "policy": 0.48,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.11,
+      "spotlight_issues": 0.02,
+      "overall": 0.1,
+      "website": "Https://www.bloomingdales.com"
+    },
+    {
+      "company": "Bonprix",
+      "policy": 0.7,
+      "governance": 0.54,
+      "traceability": 0.41,
+      "ksf": 0.3,
+      "spotlight_issues": 0.17,
+      "overall": 0.35,
+      "website": "Https://www.bonprix.co.uk"
+    },
+    {
+      "company": "Boohoo",
+      "policy": 0.52,
+      "governance": 0.46,
+      "traceability": 0.18,
+      "ksf": 0.13,
+      "spotlight_issues": 0.08,
+      "overall": 0.2,
+      "website": "Https://www.boohoo.com"
+    },
+    {
+      "company": "Bosideng",
+      "policy": 0.26,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.02,
+      "spotlight_issues": 0,
+      "overall": 0.05,
+      "website": "Https://www.bosidengfashion.com"
+    },
+    {
+      "company": "Bottega Veneta",
+      "policy": 0.85,
+      "governance": 0.85,
+      "traceability": 0.11,
+      "ksf": 0.45,
+      "spotlight_issues": 0.46,
+      "overall": 0.42,
+      "website": "Https://www.bottegaveneta.com/en-gb"
+    },
+    {
+      "company": "Brooks Sport",
+      "policy": 0.61,
+      "governance": 0.31,
+      "traceability": 0.31,
+      "ksf": 0.19,
+      "spotlight_issues": 0.22,
+      "overall": 0.3,
+      "website": "Https://www.brooksrunning.com/en_us"
+    },
+    {
+      "company": "Brunello Cucinelli",
+      "policy": 0.05,
+      "governance": 0.08,
+      "traceability": 0,
+      "ksf": 0.13,
+      "spotlight_issues": 0.05,
+      "overall": 0.05,
+      "website": "Https://shop.brunellocucinelli.com"
+    },
+    {
+      "company": "Buckle",
+      "policy": 0.3,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.13,
+      "spotlight_issues": 0,
+      "overall": 0.07,
+      "website": "Https://www.buckle.com"
+    },
+    {
+      "company": "Burberry",
+      "policy": 0.86,
+      "governance": 0.62,
+      "traceability": 0.01,
+      "ksf": 0.3,
+      "spotlight_issues": 0.4,
+      "overall": 0.34,
+      "website": "Https://www.burberry.com"
+    },
+    {
+      "company": "Burlington",
+      "policy": 0.47,
+      "governance": 0.31,
+      "traceability": 0,
+      "ksf": 0.15,
+      "spotlight_issues": 0.12,
+      "overall": 0.15,
+      "website": "Https://www.burlington.com"
+    },
+    {
+      "company": "C&a",
+      "policy": 0.93,
+      "governance": 0.77,
+      "traceability": 0.84,
+      "ksf": 0.51,
+      "spotlight_issues": 0.43,
+      "overall": 0.65,
+      "website": "Https://www.c-and-a.com"
+    },
+    {
+      "company": "Calvin Klein",
+      "policy": 0.89,
+      "governance": 0.46,
+      "traceability": 0.72,
+      "ksf": 0.51,
+      "spotlight_issues": 0.42,
+      "overall": 0.59,
+      "website": "Https://www.calvinklein.co.uk"
+    },
+    {
+      "company": "Calzedonia",
+      "policy": 0.42,
+      "governance": 0.31,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0.11,
+      "overall": 0.11,
+      "website": "Https://www.calzedonia.com"
+    },
+    {
+      "company": "Canada Goose",
+      "policy": 0.3,
+      "governance": 0,
+      "traceability": 0.01,
+      "ksf": 0.11,
+      "spotlight_issues": 0.06,
+      "overall": 0.08,
+      "website": "Https://www.canadagoose.com"
+    },
+    {
+      "company": "Carhartt",
+      "policy": 0.26,
+      "governance": 0.15,
+      "traceability": 0.12,
+      "ksf": 0.04,
+      "spotlight_issues": 0,
+      "overall": 0.09,
+      "website": "Https://www.carhartt-wip.com"
+    },
+    {
+      "company": "Carolina Herrera",
+      "policy": 0.53,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.09,
+      "spotlight_issues": 0.14,
+      "overall": 0.14,
+      "website": "Https://www.carolinaherrera.com"
+    },
+    {
+      "company": "Caroll",
+      "policy": 0.47,
+      "governance": 0.08,
+      "traceability": 0,
+      "ksf": 0.19,
+      "spotlight_issues": 0.07,
+      "overall": 0.13,
+      "website": "Https://www.caroll.com"
+    },
+    {
+      "company": "Carrefour ",
+      "policy": 0.67,
+      "governance": 0.46,
+      "traceability": 0.11,
+      "ksf": 0.26,
+      "spotlight_issues": 0.13,
+      "overall": 0.24,
+      "website": "Https://www.carrefour.com"
+    },
+    {
+      "company": "Carter's",
+      "policy": 0.51,
+      "governance": 0.15,
+      "traceability": 0.01,
+      "ksf": 0.17,
+      "spotlight_issues": 0.04,
+      "overall": 0.12,
+      "website": "Https://www.carters.com"
+    },
+    {
+      "company": "Celine",
+      "policy": 0.8,
+      "governance": 0.77,
+      "traceability": 0.01,
+      "ksf": 0.19,
+      "spotlight_issues": 0.11,
+      "overall": 0.22,
+      "website": "Https://www.celine.com/"
+    },
+    {
+      "company": "Celio",
+      "policy": 0.03,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://www.celio.com"
+    },
+    {
+      "company": "Champion",
+      "policy": 0.64,
+      "governance": 0.77,
+      "traceability": 0.39,
+      "ksf": 0.23,
+      "spotlight_issues": 0.33,
+      "overall": 0.39,
+      "website": "Https://www.championstore.com"
+    },
+    {
+      "company": "Chanel",
+      "policy": 0.45,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.09,
+      "spotlight_issues": 0.07,
+      "overall": 0.11,
+      "website": "Https://www.chanel.com"
+    },
+    {
+      "company": "Chico's",
+      "policy": 0.39,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.09,
+      "spotlight_issues": 0.02,
+      "overall": 0.08,
+      "website": "Https://www.chicos.com"
+    },
+    {
+      "company": "Chloé",
+      "policy": 0.55,
+      "governance": 0.62,
+      "traceability": 0.01,
+      "ksf": 0.17,
+      "spotlight_issues": 0.13,
+      "overall": 0.18,
+      "website": "Https://www.chloe.com/"
+    },
+    {
+      "company": "Claire's",
+      "policy": 0.17,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.04,
+      "spotlight_issues": 0,
+      "overall": 0.03,
+      "website": "Https://www.claires.com"
+    },
+    {
+      "company": "Clarks",
+      "policy": 0.67,
+      "governance": 0.38,
+      "traceability": 0.55,
+      "ksf": 0.21,
+      "spotlight_issues": 0.08,
+      "overall": 0.34,
+      "website": "Https://www.clarks.co.uk"
+    },
+    {
+      "company": "Coach",
+      "policy": 0.58,
+      "governance": 0.31,
+      "traceability": 0.09,
+      "ksf": 0.15,
+      "spotlight_issues": 0.2,
+      "overall": 0.22,
+      "website": "Https://uk.coach.com"
+    },
+    {
+      "company": "Cole Haan",
+      "policy": 0.21,
+      "governance": 0.15,
+      "traceability": 0.01,
+      "ksf": 0.06,
+      "spotlight_issues": 0.01,
+      "overall": 0.06,
+      "website": "Https://www.colehaan.com"
+    },
+    {
+      "company": "Columbia Sportswear",
+      "policy": 0.55,
+      "governance": 0.46,
+      "traceability": 0.19,
+      "ksf": 0.23,
+      "spotlight_issues": 0.16,
+      "overall": 0.25,
+      "website": "Https://www.columbiasportswear.co.uk"
+    },
+    {
+      "company": "Converse",
+      "policy": 0.92,
+      "governance": 0.62,
+      "traceability": 0.61,
+      "ksf": 0.32,
+      "spotlight_issues": 0.48,
+      "overall": 0.55,
+      "website": "Https://www.converse.com"
+    },
+    {
+      "company": "Cortefiel",
+      "policy": 0.58,
+      "governance": 0.15,
+      "traceability": 0.01,
+      "ksf": 0.21,
+      "spotlight_issues": 0.06,
+      "overall": 0.15,
+      "website": "Https://cortefiel.com"
+    },
+    {
+      "company": "Costco",
+      "policy": 0.49,
+      "governance": 0.23,
+      "traceability": 0.01,
+      "ksf": 0.11,
+      "spotlight_issues": 0.05,
+      "overall": 0.12,
+      "website": "Https://www.costco.co.uk"
+    },
+    {
+      "company": "Cotton On",
+      "policy": 0.39,
+      "governance": 0.08,
+      "traceability": 0.22,
+      "ksf": 0.26,
+      "spotlight_issues": 0.02,
+      "overall": 0.18,
+      "website": "Https://cottonon.com"
+    },
+    {
+      "company": "Decathlon",
+      "policy": 0.7,
+      "governance": 0.15,
+      "traceability": 0.01,
+      "ksf": 0.26,
+      "spotlight_issues": 0.25,
+      "overall": 0.24,
+      "website": "Https://www.decathlon.co.uk/"
+    },
+    {
+      "company": "Deichmann",
+      "policy": 0.18,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0.02,
+      "website": "Https://www.deichmann.com/"
+    },
+    {
+      "company": "Desigual",
+      "policy": 0.56,
+      "governance": 0,
+      "traceability": 0.23,
+      "ksf": 0.19,
+      "spotlight_issues": 0.1,
+      "overall": 0.21,
+      "website": "Https://www.desigual.com/"
+    },
+    {
+      "company": "Dick's Sporting Goods",
+      "policy": 0.63,
+      "governance": 0.31,
+      "traceability": 0.42,
+      "ksf": 0.26,
+      "spotlight_issues": 0.12,
+      "overall": 0.31,
+      "website": "Https://www.dickssportinggoods.com/"
+    },
+    {
+      "company": "Diesel",
+      "policy": 0.42,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.04,
+      "spotlight_issues": 0.02,
+      "overall": 0.07,
+      "website": "Https://uk.diesel.com/"
+    },
+    {
+      "company": "Dillard's",
+      "policy": 0.19,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.15,
+      "spotlight_issues": 0,
+      "overall": 0.06,
+      "website": "Https://www.dillards.com/"
+    },
+    {
+      "company": "Dior",
+      "policy": 0.8,
+      "governance": 0.77,
+      "traceability": 0.01,
+      "ksf": 0.19,
+      "spotlight_issues": 0.11,
+      "overall": 0.22,
+      "website": "Https://www.dior.com/"
+    },
+    {
+      "company": "Disney",
+      "policy": 0.49,
+      "governance": 0.31,
+      "traceability": 0.19,
+      "ksf": 0.28,
+      "spotlight_issues": 0.05,
+      "overall": 0.21,
+      "website": "Https://www.shopdisney.co.uk/"
+    },
+    {
+      "company": "Dkny",
+      "policy": 0.08,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.04,
+      "spotlight_issues": 0,
+      "overall": 0.02,
+      "website": "Https://www.donnakaran.com/"
+    },
+    {
+      "company": "Dolce & Gabbana",
+      "policy": 0.12,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0.02,
+      "website": "Https://www.dolcegabbana.com/"
+    },
+    {
+      "company": "Dr. Martens",
+      "policy": 0.49,
+      "governance": 0.31,
+      "traceability": 0.14,
+      "ksf": 0.09,
+      "spotlight_issues": 0.05,
+      "overall": 0.15,
+      "website": "Https://www.drmartens.com/"
+    },
+    {
+      "company": "Dressmann",
+      "policy": 0.82,
+      "governance": 0.62,
+      "traceability": 0.55,
+      "ksf": 0.49,
+      "spotlight_issues": 0.24,
+      "overall": 0.48,
+      "website": "Https://dressmann.com/"
+    },
+    {
+      "company": "Dsw",
+      "policy": 0.35,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.13,
+      "spotlight_issues": 0.04,
+      "overall": 0.09,
+      "website": "Https://www.dsw.com/"
+    },
+    {
+      "company": "Eddie Bauer",
+      "policy": 0.16,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.02,
+      "spotlight_issues": 0.01,
+      "overall": 0.03,
+      "website": "Https://www.eddiebauer.com/"
+    },
+    {
+      "company": "El Corte Inglés",
+      "policy": 0.73,
+      "governance": 0.31,
+      "traceability": 0.16,
+      "ksf": 0.26,
+      "spotlight_issues": 0.22,
+      "overall": 0.28,
+      "website": "Https://www.elcorteingles.com/"
+    },
+    {
+      "company": "Elie Tahari",
+      "policy": 0,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://www.elietahari.com/"
+    },
+    {
+      "company": "Ermenegildo Zegna",
+      "policy": 0.33,
+      "governance": 0.15,
+      "traceability": 0.78,
+      "ksf": 0.15,
+      "spotlight_issues": 0.05,
+      "overall": 0.33,
+      "website": "Https://www.zegna.com/"
+    },
+    {
+      "company": "Esprit",
+      "policy": 0.84,
+      "governance": 0.62,
+      "traceability": 0.92,
+      "ksf": 0.43,
+      "spotlight_issues": 0.33,
+      "overall": 0.6,
+      "website": "Https://www.esprit.co.uk/"
+    },
+    {
+      "company": "Express",
+      "policy": 0.23,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.11,
+      "spotlight_issues": 0,
+      "overall": 0.06,
+      "website": "Https://www.express.com/"
+    },
+    {
+      "company": "Falabella",
+      "policy": 0.55,
+      "governance": 0.46,
+      "traceability": 0,
+      "ksf": 0.21,
+      "spotlight_issues": 0.11,
+      "overall": 0.17,
+      "website": "Https://www.falabella.com/"
+    },
+    {
+      "company": "Famous Footwear",
+      "policy": 0.3,
+      "governance": 0.15,
+      "traceability": 0.01,
+      "ksf": 0.04,
+      "spotlight_issues": 0,
+      "overall": 0.06,
+      "website": "Https://www.famousfootwear.com/"
+    },
+    {
+      "company": "Fanatics",
+      "policy": 0.2,
+      "governance": 0,
+      "traceability": 0.27,
+      "ksf": 0.06,
+      "spotlight_issues": 0.01,
+      "overall": 0.12,
+      "website": "Https://www.fanatics.com/"
+    },
+    {
+      "company": "Fashion Nova",
+      "policy": 0.02,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://www.fashionnova.com/"
+    },
+    {
+      "company": "Fendi",
+      "policy": 0.8,
+      "governance": 0.77,
+      "traceability": 0.66,
+      "ksf": 0.21,
+      "spotlight_issues": 0.16,
+      "overall": 0.43,
+      "website": "Https://www.fendi.com/"
+    },
+    {
+      "company": "Fila",
+      "policy": 0.2,
+      "governance": 0.08,
+      "traceability": 0,
+      "ksf": 0.04,
+      "spotlight_issues": 0.01,
+      "overall": 0.04,
+      "website": "Https://fila.co.uk/"
+    },
+    {
+      "company": "Fjällräven",
+      "policy": 0.7,
+      "governance": 0.62,
+      "traceability": 0.09,
+      "ksf": 0.26,
+      "spotlight_issues": 0.24,
+      "overall": 0.28,
+      "website": "Https://www.fjallraven.com/"
+    },
+    {
+      "company": "Foot Locker",
+      "policy": 0.28,
+      "governance": 0.31,
+      "traceability": 0,
+      "ksf": 0.06,
+      "spotlight_issues": 0.02,
+      "overall": 0.07,
+      "website": "Https://www.footlocker.co.uk/"
+    },
+    {
+      "company": "Foschini",
+      "policy": 0.42,
+      "governance": 0.31,
+      "traceability": 0.14,
+      "ksf": 0.11,
+      "spotlight_issues": 0.12,
+      "overall": 0.17,
+      "website": "Https://www.foschini.co.za/"
+    },
+    {
+      "company": "Fossil",
+      "policy": 0.49,
+      "governance": 0,
+      "traceability": 0.09,
+      "ksf": 0.09,
+      "spotlight_issues": 0.05,
+      "overall": 0.13,
+      "website": "Https://www.fossil.com/"
+    },
+    {
+      "company": "Free People",
+      "policy": 0.4,
+      "governance": 0.31,
+      "traceability": 0,
+      "ksf": 0.15,
+      "spotlight_issues": 0.18,
+      "overall": 0.16,
+      "website": "Https://www.freepeople.com/"
+    },
+    {
+      "company": "Fruit Of The Loom",
+      "policy": 0.64,
+      "governance": 0.31,
+      "traceability": 0.35,
+      "ksf": 0.28,
+      "spotlight_issues": 0.25,
+      "overall": 0.34,
+      "website": "Https://www.fruitoftheloom.eu/"
+    },
+    {
+      "company": "Furla",
+      "policy": 0.36,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.09,
+      "spotlight_issues": 0,
+      "overall": 0.07,
+      "website": "Https://www.furla.com/"
+    },
+    {
+      "company": "G-star Raw",
+      "policy": 0.87,
+      "governance": 0.62,
+      "traceability": 0.58,
+      "ksf": 0.3,
+      "spotlight_issues": 0.17,
+      "overall": 0.43,
+      "website": "Https://www.g-star.com/"
+    },
+    {
+      "company": "Gap",
+      "policy": 0.91,
+      "governance": 0.46,
+      "traceability": 0.45,
+      "ksf": 0.53,
+      "spotlight_issues": 0.35,
+      "overall": 0.49,
+      "website": "Https://www.gap.co.uk/"
+    },
+    {
+      "company": "Gerry Weber",
+      "policy": 0.16,
+      "governance": 0.15,
+      "traceability": 0.01,
+      "ksf": 0.09,
+      "spotlight_issues": 0,
+      "overall": 0.05,
+      "website": "Https://www.gerryweber.com/"
+    },
+    {
+      "company": "Gildan",
+      "policy": 0.9,
+      "governance": 0.62,
+      "traceability": 0.96,
+      "ksf": 0.4,
+      "spotlight_issues": 0.36,
+      "overall": 0.63,
+      "website": "Https://www.gildanbrands.com/"
+    },
+    {
+      "company": "Gu",
+      "policy": 0.86,
+      "governance": 0.46,
+      "traceability": 0.32,
+      "ksf": 0.43,
+      "spotlight_issues": 0.33,
+      "overall": 0.42,
+      "website": "Https://www.gu-global.com/"
+    },
+    {
+      "company": "Gucci",
+      "policy": 0.89,
+      "governance": 0.85,
+      "traceability": 0.31,
+      "ksf": 0.45,
+      "spotlight_issues": 0.66,
+      "overall": 0.56,
+      "website": "Https://www.gucci.com/"
+    },
+    {
+      "company": "Guess",
+      "policy": 0.54,
+      "governance": 0.23,
+      "traceability": 0,
+      "ksf": 0.06,
+      "spotlight_issues": 0.07,
+      "overall": 0.12,
+      "website": "Https://www.guess.eu/"
+    },
+    {
+      "company": "H&m",
+      "policy": 0.87,
+      "governance": 0.85,
+      "traceability": 0.81,
+      "ksf": 0.51,
+      "spotlight_issues": 0.54,
+      "overall": 0.68,
+      "website": "Https://www2.hm.com/"
+    },
+    {
+      "company": "Hanes",
+      "policy": 0.64,
+      "governance": 0.77,
+      "traceability": 0.39,
+      "ksf": 0.23,
+      "spotlight_issues": 0.33,
+      "overall": 0.39,
+      "website": "Https://www.hanes.com/"
+    },
+    {
+      "company": "Heilan Home",
+      "policy": 0.02,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Http://www.hla.com.cn/"
+    },
+    {
+      "company": "Helly Hansen",
+      "policy": 0.46,
+      "governance": 0.15,
+      "traceability": 0.65,
+      "ksf": 0.21,
+      "spotlight_issues": 0.18,
+      "overall": 0.36,
+      "website": "Https://www.hellyhansen.com/"
+    },
+    {
+      "company": "Hema",
+      "policy": 0.43,
+      "governance": 0.23,
+      "traceability": 0.47,
+      "ksf": 0.09,
+      "spotlight_issues": 0.05,
+      "overall": 0.24,
+      "website": "Https://www.hema.com/"
+    },
+    {
+      "company": "Hermès",
+      "policy": 0.93,
+      "governance": 0.69,
+      "traceability": 0.23,
+      "ksf": 0.3,
+      "spotlight_issues": 0.27,
+      "overall": 0.37,
+      "website": "Https://www.hermes.com/"
+    },
+    {
+      "company": "Hollister Co.",
+      "policy": 0.57,
+      "governance": 0.31,
+      "traceability": 0.09,
+      "ksf": 0.21,
+      "spotlight_issues": 0.12,
+      "overall": 0.2,
+      "website": "Https://www.hollisterco.com/"
+    },
+    {
+      "company": "Hudson's Bay",
+      "policy": 0.48,
+      "governance": 0.15,
+      "traceability": 0.09,
+      "ksf": 0.15,
+      "spotlight_issues": 0.01,
+      "overall": 0.13,
+      "website": "Https://www.thebay.com/"
+    },
+    {
+      "company": "Hugo Boss",
+      "policy": 0.77,
+      "governance": 0.85,
+      "traceability": 0.24,
+      "ksf": 0.3,
+      "spotlight_issues": 0.19,
+      "overall": 0.34,
+      "website": "Https://www.hugoboss.com/"
+    },
+    {
+      "company": "Intimissimi",
+      "policy": 0.42,
+      "governance": 0.31,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0.11,
+      "overall": 0.11,
+      "website": "Https://www.intimissimi.com/"
+    },
+    {
+      "company": "Ito-yokado",
+      "policy": 0.62,
+      "governance": 0.15,
+      "traceability": 0.01,
+      "ksf": 0.17,
+      "spotlight_issues": 0.06,
+      "overall": 0.15,
+      "website": "Https://www.itoyokado.co.jp/"
+    },
+    {
+      "company": "Jack & Jones",
+      "policy": 0.64,
+      "governance": 0.31,
+      "traceability": 0.26,
+      "ksf": 0.15,
+      "spotlight_issues": 0.14,
+      "overall": 0.25,
+      "website": "Https://www.jackjones.com/"
+    },
+    {
+      "company": "Jd Sports",
+      "policy": 0.53,
+      "governance": 0.38,
+      "traceability": 0.23,
+      "ksf": 0.26,
+      "spotlight_issues": 0.18,
+      "overall": 0.27,
+      "website": "Https://www.jdsports.co.uk/"
+    },
+    {
+      "company": "Jessica Simpson",
+      "policy": 0,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://jessicasimpson.com/"
+    },
+    {
+      "company": "Jil Sander",
+      "policy": 0.25,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.06,
+      "spotlight_issues": 0.05,
+      "overall": 0.06,
+      "website": "Https://www.jilsander.com/"
+    },
+    {
+      "company": "Jockey",
+      "policy": 0.14,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.02,
+      "spotlight_issues": 0,
+      "overall": 0.02,
+      "website": "Https://www.jockey.co.uk/"
+    },
+    {
+      "company": "Joe Fresh",
+      "policy": 0.47,
+      "governance": 0.15,
+      "traceability": 0.05,
+      "ksf": 0.15,
+      "spotlight_issues": 0.06,
+      "overall": 0.13,
+      "website": "Https://www.joefresh.com/"
+    },
+    {
+      "company": "John Lewis",
+      "policy": 0.61,
+      "governance": 0.15,
+      "traceability": 0.24,
+      "ksf": 0.11,
+      "spotlight_issues": 0.25,
+      "overall": 0.27,
+      "website": "Https://www.johnlewis.com/"
+    },
+    {
+      "company": "Jordan",
+      "policy": 0.92,
+      "governance": 0.62,
+      "traceability": 0.61,
+      "ksf": 0.32,
+      "spotlight_issues": 0.48,
+      "overall": 0.55,
+      "website": "Https://www.nike.com/gb/jordan"
+    },
+    {
+      "company": "Justfab",
+      "policy": 0.19,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.04,
+      "spotlight_issues": 0,
+      "overall": 0.03,
+      "website": "Https://www.justfab.co.uk"
+    },
+    {
+      "company": "K-way",
+      "policy": 0.24,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0.04,
+      "website": "Https://k-way.us"
+    },
+    {
+      "company": "Kate Spade",
+      "policy": 0.58,
+      "governance": 0.31,
+      "traceability": 0.09,
+      "ksf": 0.15,
+      "spotlight_issues": 0.2,
+      "overall": 0.22,
+      "website": "Https://www.katespade.co.uk"
+    },
+    {
+      "company": "Kathmandu",
+      "policy": 0.72,
+      "governance": 0.15,
+      "traceability": 0.27,
+      "ksf": 0.13,
+      "spotlight_issues": 0.12,
+      "overall": 0.25,
+      "website": "Https://www.kathmandu.co.uk"
+    },
+    {
+      "company": "Kaufland",
+      "policy": 0.25,
+      "governance": 0.15,
+      "traceability": 0.2,
+      "ksf": 0.09,
+      "spotlight_issues": 0.06,
+      "overall": 0.14,
+      "website": "Https://www.kaufland.com"
+    },
+    {
+      "company": "Kiabi",
+      "policy": 0.39,
+      "governance": 0.38,
+      "traceability": 0.16,
+      "ksf": 0.19,
+      "spotlight_issues": 0.18,
+      "overall": 0.22,
+      "website": "Https://www.kiabi.com"
+    },
+    {
+      "company": "Kik",
+      "policy": 0.57,
+      "governance": 0.23,
+      "traceability": 0.01,
+      "ksf": 0.19,
+      "spotlight_issues": 0.05,
+      "overall": 0.14,
+      "website": "Https://kikclothing.com"
+    },
+    {
+      "company": "Kmart ",
+      "policy": 0.33,
+      "governance": 0.31,
+      "traceability": 0,
+      "ksf": 0.13,
+      "spotlight_issues": 0,
+      "overall": 0.08,
+      "website": "Https://www.kmart.com"
+    },
+    {
+      "company": "Kmart Australia",
+      "policy": 0.86,
+      "governance": 0.62,
+      "traceability": 0.55,
+      "ksf": 0.53,
+      "spotlight_issues": 0.45,
+      "overall": 0.56,
+      "website": "Https://www.kmart.com.au"
+    },
+    {
+      "company": "Kohl's",
+      "policy": 0.55,
+      "governance": 0.15,
+      "traceability": 0.01,
+      "ksf": 0.19,
+      "spotlight_issues": 0.08,
+      "overall": 0.15,
+      "website": "Https://www.kohls.com"
+    },
+    {
+      "company": "Koovs",
+      "policy": 0,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://koovs.com"
+    },
+    {
+      "company": "La Redoute",
+      "policy": 0.38,
+      "governance": 0.15,
+      "traceability": 0.01,
+      "ksf": 0.06,
+      "spotlight_issues": 0.05,
+      "overall": 0.09,
+      "website": "Https://www.laredoute.co.uk"
+    },
+    {
+      "company": "Lacoste",
+      "policy": 0.6,
+      "governance": 0.31,
+      "traceability": 0.55,
+      "ksf": 0.23,
+      "spotlight_issues": 0.13,
+      "overall": 0.35,
+      "website": "Https://www.lacoste.com"
+    },
+    {
+      "company": "Lands' End",
+      "policy": 0.58,
+      "governance": 0.31,
+      "traceability": 0.01,
+      "ksf": 0.17,
+      "spotlight_issues": 0.05,
+      "overall": 0.14,
+      "website": "Https://www.landsend.co.uk"
+    },
+    {
+      "company": "Lc Waikiki",
+      "policy": 0.22,
+      "governance": 0,
+      "traceability": 0.01,
+      "ksf": 0.02,
+      "spotlight_issues": 0.01,
+      "overall": 0.04,
+      "website": "Https://www.lcwaikiki.com"
+    },
+    {
+      "company": "Levi Strauss & Co",
+      "policy": 0.93,
+      "governance": 0.62,
+      "traceability": 0.43,
+      "ksf": 0.28,
+      "spotlight_issues": 0.33,
+      "overall": 0.44,
+      "website": "Https://www.levi.com"
+    },
+    {
+      "company": "Li-ning",
+      "policy": 0.51,
+      "governance": 0.23,
+      "traceability": 0,
+      "ksf": 0.15,
+      "spotlight_issues": 0.06,
+      "overall": 0.13,
+      "website": "Https://en.lining.com"
+    },
+    {
+      "company": "Lidl",
+      "policy": 0.58,
+      "governance": 0.31,
+      "traceability": 0.18,
+      "ksf": 0.38,
+      "spotlight_issues": 0.17,
+      "overall": 0.27,
+      "website": "Https://www.lidl.co.uk"
+    },
+    {
+      "company": "Lindex",
+      "policy": 0.73,
+      "governance": 0.31,
+      "traceability": 0.82,
+      "ksf": 0.23,
+      "spotlight_issues": 0.31,
+      "overall": 0.5,
+      "website": "Https://www.lindex.com"
+    },
+    {
+      "company": "Ll Bean",
+      "policy": 0.2,
+      "governance": 0,
+      "traceability": 0.19,
+      "ksf": 0,
+      "spotlight_issues": 0.01,
+      "overall": 0.09,
+      "website": "Https://global.llbean.com"
+    },
+    {
+      "company": "Longchamp",
+      "policy": 0.12,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0.01,
+      "overall": 0.03,
+      "website": "Https://www.longchamp.com"
+    },
+    {
+      "company": "Louis Vuitton",
+      "policy": 0.8,
+      "governance": 0.77,
+      "traceability": 0.01,
+      "ksf": 0.19,
+      "spotlight_issues": 0.11,
+      "overall": 0.22,
+      "website": "Https://uk.louisvuitton.com"
+    },
+    {
+      "company": "Lululemon",
+      "policy": 0.78,
+      "governance": 0.46,
+      "traceability": 0.59,
+      "ksf": 0.34,
+      "spotlight_issues": 0.17,
+      "overall": 0.42,
+      "website": "Https://www.lululemon.co.uk"
+    },
+    {
+      "company": "Macy's",
+      "policy": 0.48,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.11,
+      "spotlight_issues": 0.02,
+      "overall": 0.1,
+      "website": "Https://www.macys.com"
+    },
+    {
+      "company": "Mammut",
+      "policy": 0.52,
+      "governance": 0.15,
+      "traceability": 0.31,
+      "ksf": 0.3,
+      "spotlight_issues": 0.27,
+      "overall": 0.31,
+      "website": "Https://www.mammut.com"
+    },
+    {
+      "company": "Mango",
+      "policy": 0.65,
+      "governance": 0.15,
+      "traceability": 0.15,
+      "ksf": 0.26,
+      "spotlight_issues": 0.22,
+      "overall": 0.26,
+      "website": "Https://shop.mango.com"
+    },
+    {
+      "company": "Marc Jacobs",
+      "policy": 0.8,
+      "governance": 0.77,
+      "traceability": 0.01,
+      "ksf": 0.19,
+      "spotlight_issues": 0.1,
+      "overall": 0.22,
+      "website": "Https://www.marcjacobs.com"
+    },
+    {
+      "company": "Marks & Spencer",
+      "policy": 0.83,
+      "governance": 0.62,
+      "traceability": 0.54,
+      "ksf": 0.45,
+      "spotlight_issues": 0.29,
+      "overall": 0.48,
+      "website": "Https://www.marksandspencer.com"
+    },
+    {
+      "company": "Marni",
+      "policy": 0.28,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.04,
+      "spotlight_issues": 0,
+      "overall": 0.05,
+      "website": "Https://www.marni.com"
+    },
+    {
+      "company": "Massimo Dutti",
+      "policy": 0.89,
+      "governance": 0.62,
+      "traceability": 0.01,
+      "ksf": 0.34,
+      "spotlight_issues": 0.42,
+      "overall": 0.36,
+      "website": "Https://www.massimodutti.com"
+    },
+    {
+      "company": "Matalan",
+      "policy": 0.45,
+      "governance": 0.08,
+      "traceability": 0.18,
+      "ksf": 0.17,
+      "spotlight_issues": 0.07,
+      "overall": 0.17,
+      "website": "Https://www.matalan.co.uk"
+    },
+    {
+      "company": "Max Mara",
+      "policy": 0.03,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://gb.maxmara.com"
+    },
+    {
+      "company": "Merrell",
+      "policy": 0.39,
+      "governance": 0,
+      "traceability": 0.01,
+      "ksf": 0.11,
+      "spotlight_issues": 0.04,
+      "overall": 0.09,
+      "website": "Https://www.merrell.com"
+    },
+    {
+      "company": "Metersbonwe",
+      "policy": 0,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://www.metersbonwe.com"
+    },
+    {
+      "company": "Mexx",
+      "policy": 0,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://www.mexx.com"
+    },
+    {
+      "company": "Michael Kors",
+      "policy": 0.58,
+      "governance": 0.31,
+      "traceability": 0.01,
+      "ksf": 0.17,
+      "spotlight_issues": 0.08,
+      "overall": 0.16,
+      "website": "Https://www.michaelkors.co.uk"
+    },
+    {
+      "company": "Miu Miu",
+      "policy": 0.48,
+      "governance": 0.31,
+      "traceability": 0.15,
+      "ksf": 0.09,
+      "spotlight_issues": 0.13,
+      "overall": 0.18,
+      "website": "Https://www.miumiu.com"
+    },
+    {
+      "company": "Mizuno",
+      "policy": 0.54,
+      "governance": 0.15,
+      "traceability": 0.23,
+      "ksf": 0.15,
+      "spotlight_issues": 0.12,
+      "overall": 0.22,
+      "website": "Https://emea.mizuno.com"
+    },
+    {
+      "company": "Moncler",
+      "policy": 0.69,
+      "governance": 0.31,
+      "traceability": 0.01,
+      "ksf": 0.15,
+      "spotlight_issues": 0.12,
+      "overall": 0.18,
+      "website": "Https://www.moncler.com"
+    },
+    {
+      "company": "Monoprix",
+      "policy": 0.73,
+      "governance": 0.46,
+      "traceability": 0,
+      "ksf": 0.13,
+      "spotlight_issues": 0.11,
+      "overall": 0.18,
+      "website": "Https://www.monoprix.fr"
+    },
+    {
+      "company": "Morrisons",
+      "policy": 0.57,
+      "governance": 0.31,
+      "traceability": 0.2,
+      "ksf": 0.32,
+      "spotlight_issues": 0.2,
+      "overall": 0.28,
+      "website": "Https://nutmeg.morrisons.com/"
+    },
+    {
+      "company": "Mrp",
+      "policy": 0.43,
+      "governance": 0.31,
+      "traceability": 0.01,
+      "ksf": 0.21,
+      "spotlight_issues": 0.1,
+      "overall": 0.15,
+      "website": "Https://www.mrp.com"
+    },
+    {
+      "company": "Muji",
+      "policy": 0.75,
+      "governance": 0.31,
+      "traceability": 0.01,
+      "ksf": 0.3,
+      "spotlight_issues": 0.14,
+      "overall": 0.22,
+      "website": "Https://www.muji.eu"
+    },
+    {
+      "company": "New Balance",
+      "policy": 0.81,
+      "governance": 0.54,
+      "traceability": 0.47,
+      "ksf": 0.38,
+      "spotlight_issues": 0.23,
+      "overall": 0.42,
+      "website": "Https://www.newbalance.co.uk"
+    },
+    {
+      "company": "New Look",
+      "policy": 0.68,
+      "governance": 0.46,
+      "traceability": 0.41,
+      "ksf": 0.26,
+      "spotlight_issues": 0.18,
+      "overall": 0.34,
+      "website": "Https://www.newlook.com"
+    },
+    {
+      "company": "New Yorker",
+      "policy": 0.03,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://www.newyorker.com"
+    },
+    {
+      "company": "Next",
+      "policy": 0.89,
+      "governance": 0.23,
+      "traceability": 0.36,
+      "ksf": 0.36,
+      "spotlight_issues": 0.28,
+      "overall": 0.4,
+      "website": "Https://www.next.co.uk"
+    },
+    {
+      "company": "Nike",
+      "policy": 0.92,
+      "governance": 0.62,
+      "traceability": 0.61,
+      "ksf": 0.32,
+      "spotlight_issues": 0.48,
+      "overall": 0.55,
+      "website": "Https://www.nike.com"
+    },
+    {
+      "company": "Nine West",
+      "policy": 0.08,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.02,
+      "spotlight_issues": 0,
+      "overall": 0.01,
+      "website": "Https://ninewest.com"
+    },
+    {
+      "company": "Nordstrom",
+      "policy": 0.64,
+      "governance": 0.31,
+      "traceability": 0.2,
+      "ksf": 0.23,
+      "spotlight_issues": 0.23,
+      "overall": 0.28,
+      "website": "Https://www.nordstrom.com"
+    },
+    {
+      "company": "Old Navy",
+      "policy": 0.91,
+      "governance": 0.46,
+      "traceability": 0.45,
+      "ksf": 0.53,
+      "spotlight_issues": 0.35,
+      "overall": 0.49,
+      "website": "Https://oldnavy.gap.com"
+    },
+    {
+      "company": "Otto",
+      "policy": 0.56,
+      "governance": 0.46,
+      "traceability": 0.14,
+      "ksf": 0.19,
+      "spotlight_issues": 0.07,
+      "overall": 0.2,
+      "website": "Https://www.otto.de"
+    },
+    {
+      "company": "Ovs",
+      "policy": 0.94,
+      "governance": 0.77,
+      "traceability": 0.93,
+      "ksf": 0.55,
+      "spotlight_issues": 0.72,
+      "overall": 0.78,
+      "website": "Https://www.ovsfashion.com"
+    },
+    {
+      "company": "Paris",
+      "policy": 0.45,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.06,
+      "spotlight_issues": 0.11,
+      "overall": 0.12,
+      "website": "Https://www.axparis.com"
+    },
+    {
+      "company": "Patagonia",
+      "policy": 0.78,
+      "governance": 0.54,
+      "traceability": 0.68,
+      "ksf": 0.47,
+      "spotlight_issues": 0.41,
+      "overall": 0.56,
+      "website": "Https://eu.patagonia.com"
+    },
+    {
+      "company": "Pepe Jeans",
+      "policy": 0.02,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://www.pepejeans.com/"
+    },
+    {
+      "company": "Pimkie",
+      "policy": 0.55,
+      "governance": 0.54,
+      "traceability": 0.24,
+      "ksf": 0.21,
+      "spotlight_issues": 0.23,
+      "overall": 0.29,
+      "website": "Https://www.pimkie.fr"
+    },
+    {
+      "company": "Prada",
+      "policy": 0.48,
+      "governance": 0.31,
+      "traceability": 0.15,
+      "ksf": 0.09,
+      "spotlight_issues": 0.13,
+      "overall": 0.18,
+      "website": "Https://www.prada.com"
+    },
+    {
+      "company": "Prettylittlething",
+      "policy": 0.52,
+      "governance": 0.46,
+      "traceability": 0.18,
+      "ksf": 0.13,
+      "spotlight_issues": 0.08,
+      "overall": 0.2,
+      "website": "Https://www.prettylittlething.com"
+    },
+    {
+      "company": "Primark",
+      "policy": 0.85,
+      "governance": 0.38,
+      "traceability": 0.23,
+      "ksf": 0.43,
+      "spotlight_issues": 0.3,
+      "overall": 0.38,
+      "website": "Https://www.primark.com"
+    },
+    {
+      "company": "Prisma",
+      "policy": 0.63,
+      "governance": 0.46,
+      "traceability": 0.2,
+      "ksf": 0.28,
+      "spotlight_issues": 0.1,
+      "overall": 0.25,
+      "website": "Https://prismaclothingandbrands.com"
+    },
+    {
+      "company": "Pull&bear",
+      "policy": 0.89,
+      "governance": 0.62,
+      "traceability": 0.01,
+      "ksf": 0.34,
+      "spotlight_issues": 0.43,
+      "overall": 0.36,
+      "website": "Https://www.pullandbear.com"
+    },
+    {
+      "company": "Puma",
+      "policy": 0.94,
+      "governance": 0.85,
+      "traceability": 0.41,
+      "ksf": 0.51,
+      "spotlight_issues": 0.37,
+      "overall": 0.51,
+      "website": "Https://uk.puma.com"
+    },
+    {
+      "company": "Quiksilver",
+      "policy": 0.02,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://www.quiksilver.co.uk"
+    },
+    {
+      "company": "Ralph Lauren",
+      "policy": 0.71,
+      "governance": 0.46,
+      "traceability": 0.01,
+      "ksf": 0.28,
+      "spotlight_issues": 0.34,
+      "overall": 0.29,
+      "website": "Https://www.ralphlauren.co.uk"
+    },
+    {
+      "company": "Reebok",
+      "policy": 0.91,
+      "governance": 0.62,
+      "traceability": 0.58,
+      "ksf": 0.49,
+      "spotlight_issues": 0.39,
+      "overall": 0.54,
+      "website": "Https://www.reebok.co.uk"
+    },
+    {
+      "company": "Rei",
+      "policy": 0.5,
+      "governance": 0.23,
+      "traceability": 0.15,
+      "ksf": 0.11,
+      "spotlight_issues": 0.16,
+      "overall": 0.19,
+      "website": "Https://www.rei.com"
+    },
+    {
+      "company": "Reliance Trends",
+      "policy": 0.34,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.06,
+      "spotlight_issues": 0.02,
+      "overall": 0.07,
+      "website": "Https://relianceretail.com"
+    },
+    {
+      "company": "Reserved",
+      "policy": 0.52,
+      "governance": 0.23,
+      "traceability": 0.01,
+      "ksf": 0.06,
+      "spotlight_issues": 0.17,
+      "overall": 0.15,
+      "website": "Https://www.reserved.com"
+    },
+    {
+      "company": "Revolve",
+      "policy": 0.02,
+      "governance": 0.31,
+      "traceability": 0,
+      "ksf": 0.02,
+      "spotlight_issues": 0,
+      "overall": 0.02,
+      "website": "Https://www.revolve.com"
+    },
+    {
+      "company": "River Island",
+      "policy": 0.64,
+      "governance": 0.38,
+      "traceability": 0.26,
+      "ksf": 0.19,
+      "spotlight_issues": 0.01,
+      "overall": 0.22,
+      "website": "Https://www.riverisland.com"
+    },
+    {
+      "company": "Ross Dress For Less",
+      "policy": 0.25,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.13,
+      "spotlight_issues": 0.01,
+      "overall": 0.06,
+      "website": "Https://www.rossstores.com"
+    },
+    {
+      "company": "Roxy",
+      "policy": 0.02,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://www.roxy-uk.co.uk"
+    },
+    {
+      "company": "Russell Athletic",
+      "policy": 0.64,
+      "governance": 0.31,
+      "traceability": 0.35,
+      "ksf": 0.28,
+      "spotlight_issues": 0.25,
+      "overall": 0.34,
+      "website": "Https://russellathletic.eu"
+    },
+    {
+      "company": "S.oliver",
+      "policy": 0.55,
+      "governance": 0.08,
+      "traceability": 0.01,
+      "ksf": 0.04,
+      "spotlight_issues": 0.06,
+      "overall": 0.11,
+      "website": "Https://www.soliver.eu"
+    },
+    {
+      "company": "Sainsbury's",
+      "policy": 0.69,
+      "governance": 0.77,
+      "traceability": 0.65,
+      "ksf": 0.3,
+      "spotlight_issues": 0.31,
+      "overall": 0.48,
+      "website": "Https://tuclothing.sainsburys.co.uk"
+    },
+    {
+      "company": "Saint Laurent",
+      "policy": 0.85,
+      "governance": 0.85,
+      "traceability": 0.11,
+      "ksf": 0.45,
+      "spotlight_issues": 0.47,
+      "overall": 0.43,
+      "website": "Https://www.ysl.com"
+    },
+    {
+      "company": "Saks Fifth Avenue",
+      "policy": 0.48,
+      "governance": 0.15,
+      "traceability": 0.09,
+      "ksf": 0.15,
+      "spotlight_issues": 0.01,
+      "overall": 0.13,
+      "website": "Https://www.saksfifthavenue.com"
+    },
+    {
+      "company": "Salvatore Ferragamo",
+      "policy": 0.67,
+      "governance": 0.62,
+      "traceability": 0.01,
+      "ksf": 0.26,
+      "spotlight_issues": 0.24,
+      "overall": 0.25,
+      "website": "Https://www.ferragamo.com"
+    },
+    {
+      "company": "Sandro",
+      "policy": 0.39,
+      "governance": 0.08,
+      "traceability": 0,
+      "ksf": 0.09,
+      "spotlight_issues": 0.05,
+      "overall": 0.09,
+      "website": "Https://uk.sandro-paris.com"
+    },
+    {
+      "company": "Semir",
+      "policy": 0.02,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://www.semir.com"
+    },
+    {
+      "company": "Shein",
+      "policy": 0.08,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0.01,
+      "website": "Https://m.shein.co.uk"
+    },
+    {
+      "company": "Skechers",
+      "policy": 0.37,
+      "governance": 0.15,
+      "traceability": 0.01,
+      "ksf": 0.09,
+      "spotlight_issues": 0.01,
+      "overall": 0.08,
+      "website": "Https://www.skechers.co.uk"
+    },
+    {
+      "company": "Speedo",
+      "policy": 0.83,
+      "governance": 0.77,
+      "traceability": 0.59,
+      "ksf": 0.3,
+      "spotlight_issues": 0.43,
+      "overall": 0.53,
+      "website": "Https://www.speedo.com"
+    },
+    {
+      "company": "Splash",
+      "policy": 0.3,
+      "governance": 0.23,
+      "traceability": 0,
+      "ksf": 0.04,
+      "spotlight_issues": 0.1,
+      "overall": 0.09,
+      "website": "Https://www.splashclothing.com"
+    },
+    {
+      "company": "Sports Direct",
+      "policy": 0.22,
+      "governance": 0.08,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0.05,
+      "overall": 0.05,
+      "website": "Https://www.sportsdirect.com"
+    },
+    {
+      "company": "Steve Madden",
+      "policy": 0.51,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.17,
+      "spotlight_issues": 0.08,
+      "overall": 0.14,
+      "website": "Https://stevemadden.co.uk"
+    },
+    {
+      "company": "Stradivarius",
+      "policy": 0.89,
+      "governance": 0.62,
+      "traceability": 0.01,
+      "ksf": 0.34,
+      "spotlight_issues": 0.42,
+      "overall": 0.36,
+      "website": "Https://www.stradivarius.com"
+    },
+    {
+      "company": "Superdry",
+      "policy": 0.8,
+      "governance": 0.62,
+      "traceability": 0.01,
+      "ksf": 0.21,
+      "spotlight_issues": 0.41,
+      "overall": 0.32,
+      "website": "Https://www.superdry.com"
+    },
+    {
+      "company": "Takko",
+      "policy": 0.34,
+      "governance": 0,
+      "traceability": 0.05,
+      "ksf": 0.17,
+      "spotlight_issues": 0.07,
+      "overall": 0.12,
+      "website": "Https://www.takko.com/"
+    },
+    {
+      "company": "Target",
+      "policy": 0.89,
+      "governance": 0.31,
+      "traceability": 0.32,
+      "ksf": 0.47,
+      "spotlight_issues": 0.31,
+      "overall": 0.42,
+      "website": "Https://www.target.com"
+    },
+    {
+      "company": "Target Australia",
+      "policy": 0.86,
+      "governance": 0.62,
+      "traceability": 0.55,
+      "ksf": 0.53,
+      "spotlight_issues": 0.45,
+      "overall": 0.56,
+      "website": "Https://www.target.com.au"
+    },
+    {
+      "company": "Tchibo",
+      "policy": 0.86,
+      "governance": 0.69,
+      "traceability": 0.51,
+      "ksf": 0.4,
+      "spotlight_issues": 0.47,
+      "overall": 0.53,
+      "website": "Https://www.tchibo-coffee.co.uk"
+    },
+    {
+      "company": "Ted Baker",
+      "policy": 0.55,
+      "governance": 0.15,
+      "traceability": 0.26,
+      "ksf": 0.09,
+      "spotlight_issues": 0.12,
+      "overall": 0.21,
+      "website": "Https://www.tedbaker.com"
+    },
+    {
+      "company": "Tesco ",
+      "policy": 0.84,
+      "governance": 0.46,
+      "traceability": 0.32,
+      "ksf": 0.23,
+      "spotlight_issues": 0.18,
+      "overall": 0.34,
+      "website": "Https://www.tesco.com/zones/clothing"
+    },
+    {
+      "company": "Tezenis",
+      "policy": 0.42,
+      "governance": 0.31,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0.11,
+      "overall": 0.11,
+      "website": "Https://www.tezenis.com"
+    },
+    {
+      "company": "The Children's Place",
+      "policy": 0.45,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.11,
+      "spotlight_issues": 0.04,
+      "overall": 0.09,
+      "website": "Https://www.childrensplace.com"
+    },
+    {
+      "company": "The North Face",
+      "policy": 0.92,
+      "governance": 0.62,
+      "traceability": 0.84,
+      "ksf": 0.53,
+      "spotlight_issues": 0.47,
+      "overall": 0.66,
+      "website": "Https://www.thenorthface.co.uk"
+    },
+    {
+      "company": "The Warehouse",
+      "policy": 0.82,
+      "governance": 0.31,
+      "traceability": 0.24,
+      "ksf": 0.21,
+      "spotlight_issues": 0.11,
+      "overall": 0.27,
+      "website": "Https://www.thewarehouse.co.nz"
+    },
+    {
+      "company": "Timberland",
+      "policy": 0.92,
+      "governance": 0.62,
+      "traceability": 0.84,
+      "ksf": 0.53,
+      "spotlight_issues": 0.47,
+      "overall": 0.66,
+      "website": "Https://www.timberland.co.uk"
+    },
+    {
+      "company": "Tk Maxx",
+      "policy": 0.53,
+      "governance": 0.31,
+      "traceability": 0,
+      "ksf": 0.09,
+      "spotlight_issues": 0.08,
+      "overall": 0.13,
+      "website": "Https://www.tkmaxx.com"
+    },
+    {
+      "company": "Tod's",
+      "policy": 0.33,
+      "governance": 0.38,
+      "traceability": 0,
+      "ksf": 0.15,
+      "spotlight_issues": 0.13,
+      "overall": 0.14,
+      "website": "Https://www.tods.com"
+    },
+    {
+      "company": "Tom Ford",
+      "policy": 0.02,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://www.tomford.co.uk"
+    },
+    {
+      "company": "Tom Tailor",
+      "policy": 0.66,
+      "governance": 0.31,
+      "traceability": 0.69,
+      "ksf": 0.3,
+      "spotlight_issues": 0.18,
+      "overall": 0.42,
+      "website": "Https://www.tom-tailor.eu"
+    },
+    {
+      "company": "Tommy Bahama",
+      "policy": 0.27,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.06,
+      "spotlight_issues": 0.02,
+      "overall": 0.06,
+      "website": "Https://www.tommybahama.com"
+    },
+    {
+      "company": "Tommy Hilfiger",
+      "policy": 0.89,
+      "governance": 0.46,
+      "traceability": 0.72,
+      "ksf": 0.51,
+      "spotlight_issues": 0.42,
+      "overall": 0.59,
+      "website": "Https://uk.tommy.com"
+    },
+    {
+      "company": "Topman",
+      "policy": 0.63,
+      "governance": 0.15,
+      "traceability": 0.42,
+      "ksf": 0.17,
+      "spotlight_issues": 0.07,
+      "overall": 0.27,
+      "website": "Https://www.asos.com/topman"
+    },
+    {
+      "company": "Topshop",
+      "policy": 0.63,
+      "governance": 0.15,
+      "traceability": 0.42,
+      "ksf": 0.17,
+      "spotlight_issues": 0.07,
+      "overall": 0.27,
+      "website": "Https://www.asos.com/topshop"
+    },
+    {
+      "company": "Topvalu Collection",
+      "policy": 0.64,
+      "governance": 0.08,
+      "traceability": 0,
+      "ksf": 0.19,
+      "spotlight_issues": 0.12,
+      "overall": 0.16,
+      "website": "Https://topvalucollection.jp"
+    },
+    {
+      "company": "Tory Burch",
+      "policy": 0.03,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Https://topvalucollection.jp"
+    },
+    {
+      "company": "Triumph",
+      "policy": 0.23,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.15,
+      "spotlight_issues": 0,
+      "overall": 0.06,
+      "website": "Https://uk.triumph.com"
+    },
+    {
+      "company": "Truworths",
+      "policy": 0.47,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.09,
+      "spotlight_issues": 0.06,
+      "overall": 0.11,
+      "website": "Https://www.truworths.co.za"
+    },
+    {
+      "company": "Ugg",
+      "policy": 0.67,
+      "governance": 0.31,
+      "traceability": 0.97,
+      "ksf": 0.23,
+      "spotlight_issues": 0.33,
+      "overall": 0.55,
+      "website": "Https://www.ugg.com"
+    },
+    {
+      "company": "Under Armour",
+      "policy": 0.51,
+      "governance": 0.23,
+      "traceability": 0.24,
+      "ksf": 0.21,
+      "spotlight_issues": 0.07,
+      "overall": 0.22,
+      "website": "Https://www.underarmour.co.uk"
+    },
+    {
+      "company": "Uniqlo",
+      "policy": 0.86,
+      "governance": 0.46,
+      "traceability": 0.32,
+      "ksf": 0.43,
+      "spotlight_issues": 0.33,
+      "overall": 0.42,
+      "website": "Https://www.uniqlo.com"
+    },
+    {
+      "company": "United Arrows",
+      "policy": 0.42,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0.06,
+      "spotlight_issues": 0.06,
+      "overall": 0.09,
+      "website": "Https://store.united-arrows.co.jp"
+    },
+    {
+      "company": "United Colors Of Benetton",
+      "policy": 0.92,
+      "governance": 0.46,
+      "traceability": 0.85,
+      "ksf": 0.4,
+      "spotlight_issues": 0.37,
+      "overall": 0.6,
+      "website": "Https://gb.benetton.com"
+    },
+    {
+      "company": "Urban Outfitters",
+      "policy": 0.4,
+      "governance": 0.31,
+      "traceability": 0,
+      "ksf": 0.15,
+      "spotlight_issues": 0.18,
+      "overall": 0.16,
+      "website": "Https://www.urbanoutfitters.com"
+    },
+    {
+      "company": "Valentino",
+      "policy": 0.31,
+      "governance": 0.15,
+      "traceability": 0,
+      "ksf": 0.13,
+      "spotlight_issues": 0.02,
+      "overall": 0.08,
+      "website": "Https://www.valentino.com"
+    },
+    {
+      "company": "Van Heusen",
+      "policy": 0.89,
+      "governance": 0.46,
+      "traceability": 0.72,
+      "ksf": 0.51,
+      "spotlight_issues": 0.42,
+      "overall": 0.59,
+      "website": "Https://www.vanheusenindia.com"
+    },
+    {
+      "company": "Vans",
+      "policy": 0.92,
+      "governance": 0.62,
+      "traceability": 0.84,
+      "ksf": 0.53,
+      "spotlight_issues": 0.45,
+      "overall": 0.65,
+      "website": "Https://www.vans.co.uk"
+    },
+    {
+      "company": "Vero Moda",
+      "policy": 0.64,
+      "governance": 0.31,
+      "traceability": 0.26,
+      "ksf": 0.15,
+      "spotlight_issues": 0.16,
+      "overall": 0.26,
+      "website": "Https://www.veromoda.com"
+    },
+    {
+      "company": "Versace",
+      "policy": 0.58,
+      "governance": 0.31,
+      "traceability": 0.01,
+      "ksf": 0.17,
+      "spotlight_issues": 0.08,
+      "overall": 0.16,
+      "website": "Https://www.versace.com"
+    },
+    {
+      "company": "Very",
+      "policy": 0.7,
+      "governance": 0.15,
+      "traceability": 0.2,
+      "ksf": 0.17,
+      "spotlight_issues": 0.11,
+      "overall": 0.23,
+      "website": "Https://www.very.co.uk"
+    },
+    {
+      "company": "Victoria's Secret",
+      "policy": 0.58,
+      "governance": 0.15,
+      "traceability": 0.26,
+      "ksf": 0.21,
+      "spotlight_issues": 0.05,
+      "overall": 0.22,
+      "website": "Https://www.victoriassecret.co.uk"
+    },
+    {
+      "company": "Walmart",
+      "policy": 0.77,
+      "governance": 0.62,
+      "traceability": 0.01,
+      "ksf": 0.32,
+      "spotlight_issues": 0.18,
+      "overall": 0.26,
+      "website": "Https://www.walmart.com"
+    },
+    {
+      "company": "Woolworths South Africa",
+      "policy": 0.7,
+      "governance": 0.62,
+      "traceability": 0.01,
+      "ksf": 0.21,
+      "spotlight_issues": 0.23,
+      "overall": 0.24,
+      "website": "Https://www.woolworths.co.za"
+    },
+    {
+      "company": "Wrangler",
+      "policy": 0.74,
+      "governance": 0.23,
+      "traceability": 0.46,
+      "ksf": 0.11,
+      "spotlight_issues": 0.23,
+      "overall": 0.34,
+      "website": "Https://eu.wrangler.com"
+    },
+    {
+      "company": "Youngor",
+      "policy": 0,
+      "governance": 0,
+      "traceability": 0,
+      "ksf": 0,
+      "spotlight_issues": 0,
+      "overall": 0,
+      "website": "Http://www.youngor.com"
+    },
+    {
+      "company": "Zalando",
+      "policy": 0.83,
+      "governance": 0.54,
+      "traceability": 0.5,
+      "ksf": 0.28,
+      "spotlight_issues": 0.34,
+      "overall": 0.45,
+      "website": "Https://www.zalando.co.uk"
+    },
+    {
+      "company": "Zara",
+      "policy": 0.89,
+      "governance": 0.62,
+      "traceability": 0.01,
+      "ksf": 0.34,
+      "spotlight_issues": 0.42,
+      "overall": 0.36,
+      "website": "Https://www.zara.com"
+    },
+    {
+      "company": "Zeeman",
+      "policy": 0.7,
+      "governance": 0.54,
+      "traceability": 0.42,
+      "ksf": 0.3,
+      "spotlight_issues": 0.23,
+      "overall": 0.38,
+      "website": "Https://www.zeeman.com"
+    }
+   ]
