@@ -1,5 +1,5 @@
 {
-    "https://www.abercrombie.com": {
+    "abercrombie.com": {
         "company": "Abercrombie & Fitch",
         "policy": 0.57,
         "governance": 0.31,
@@ -8,7 +8,7 @@
         "spotlight_issues": 0.12,
         "overall": 0.2
     },
-    "https://www.adidas.co.uk": {
+    "adidas.co.uk": {
         "company": "Adidas",
         "policy": 0.91,
         "governance": 0.62,
@@ -17,7 +17,7 @@
         "spotlight_issues": 0.39,
         "overall": 0.54
     },
-    "https://www.aeropostale.com": {
+    "aeropostale.com": {
         "company": "Aeropostale",
         "policy": 0.17,
         "governance": 0,
@@ -26,7 +26,7 @@
         "spotlight_issues": 0,
         "overall": 0.03
     },
-    "https://www.ajio.com": {
+    "ajio.com": {
         "company": "Ajio",
         "policy": 0.34,
         "governance": 0.15,
@@ -35,7 +35,7 @@
         "spotlight_issues": 0.02,
         "overall": 0.07
     },
-    "https://www.aldi-nord.de": {
+    "aldi-nord.de": {
         "company": "Aldi Nord",
         "policy": 0.64,
         "governance": 0.38,
@@ -44,7 +44,7 @@
         "spotlight_issues": 0.14,
         "overall": 0.25
     },
-    "https://cr.aldisouthgroup.com": {
+    "cr.aldisouthgroup.com": {
         "company": "Aldi South",
         "policy": 0.73,
         "governance": 0.46,
@@ -53,7 +53,7 @@
         "spotlight_issues": 0.18,
         "overall": 0.31
     },
-    "https://aldoshoes.co.uk": {
+    "aldoshoes.co.uk": {
         "company": "Aldo",
         "policy": 0.44,
         "governance": 0.15,
@@ -62,7 +62,7 @@
         "spotlight_issues": 0.1,
         "overall": 0.14
     },
-    "https://www.amazon.co.uk": {
+    "amazon.co.uk": {
         "company": "Amazon",
         "policy": 0.7,
         "governance": 0.31,
@@ -71,7 +71,7 @@
         "spotlight_issues": 0.18,
         "overall": 0.27
     },
-    "https://www.ae.com/us/en": {
+    "ae.com": {
         "company": "American Eagle",
         "policy": 0.57,
         "governance": 0.38,
@@ -80,7 +80,7 @@
         "spotlight_issues": 0.12,
         "overall": 0.16
     },
-    "https://www.anta.co.uk": {
+    "anta.co.uk": {
         "company": "Anta",
         "policy": 0.23,
         "governance": 0.15,
@@ -89,7 +89,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.07
     },
-    "https://www.anthropologie.com/en-gb/": {
+    "anthropologie.com": {
         "company": "Anthropologie",
         "policy": 0.4,
         "governance": 0.31,
@@ -98,7 +98,7 @@
         "spotlight_issues": 0.18,
         "overall": 0.16
     },
-    "https://www.aritzia.com": {
+    "aritzia.com": {
         "company": "Aritzia",
         "policy": 0.6,
         "governance": 0.62,
@@ -107,7 +107,7 @@
         "spotlight_issues": 0.2,
         "overall": 0.23
     },
-    "https://www.armani.com/en-gb": {
+    "armani.com": {
         "company": "Armani",
         "policy": 0.66,
         "governance": 0.15,
@@ -116,7 +116,7 @@
         "spotlight_issues": 0.08,
         "overall": 0.14
     },
-    "https://www.asda.com": {
+    "asda.com": {
         "company": "Asda",
         "policy": 0.71,
         "governance": 0.62,
@@ -125,7 +125,7 @@
         "spotlight_issues": 0.27,
         "overall": 0.38
     },
-    "https://www.asics.com/gb/en-gb/": {
+    "asics.com": {
         "company": "Asics",
         "policy": 0.8,
         "governance": 0.62,
@@ -134,7 +134,7 @@
         "spotlight_issues": 0.34,
         "overall": 0.49
     },
-    "https://www.asos.com/": {
+    "asos.com": {
         "company": "Asos",
         "policy": 0.83,
         "governance": 0.46,
@@ -143,7 +143,7 @@
         "spotlight_issues": 0.24,
         "overall": 0.47
     },
-    "https://www.balenciaga.com/en-gb": {
+    "balenciaga.com": {
         "company": "Balenciaga",
         "policy": 0.85,
         "governance": 0.85,
@@ -152,7 +152,7 @@
         "spotlight_issues": 0.47,
         "overall": 0.43
     },
-    "https://www.bally.co.uk/en_gb/home": {
+    "bally.co.uk": {
         "company": "Bally",
         "policy": 0.42,
         "governance": 0.31,
@@ -161,7 +161,7 @@
         "spotlight_issues": 0.17,
         "overall": 0.14
     },
-    "https://www.bananarepublic.co.uk": {
+    "bananarepublic.co.uk": {
         "company": "Banana Republic",
         "policy": 0.91,
         "governance": 0.46,
@@ -170,7 +170,7 @@
         "spotlight_issues": 0.35,
         "overall": 0.49
     },
-    "https://bcbg.com": {
+    "bcbg.com": {
         "company": "Bcbgmaxazria",
         "policy": 0.05,
         "governance": 0,
@@ -179,7 +179,7 @@
         "spotlight_issues": 0,
         "overall": 0.02
     },
-    "https://www.ssfshop.com/beanpole/main?brandshopno=bdma01&brndshopid=bpbr": {
+    "ssfshop.com": {
         "company": "Beanpole",
         "policy": 0.17,
         "governance": 0.46,
@@ -188,7 +188,7 @@
         "spotlight_issues": 0.06,
         "overall": 0.07
     },
-    "https://www.belleloveclothing.co.uk": {
+    "belleloveclothing.co.uk": {
         "company": "Belle",
         "policy": 0,
         "governance": 0,
@@ -197,7 +197,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.bershka.com": {
+    "bershka.com": {
         "company": "Bershka",
         "policy": 0.89,
         "governance": 0.62,
@@ -215,7 +215,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.bigw.com.au": {
+    "bigw.com.au": {
         "company": "Big W",
         "policy": 0.79,
         "governance": 0.31,
@@ -224,7 +224,7 @@
         "spotlight_issues": 0.12,
         "overall": 0.29
     },
-    "https://www.billabong.co.uk": {
+    "billabong.co.uk": {
         "company": "Billabong",
         "policy": 0.02,
         "governance": 0,
@@ -233,7 +233,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.bloomingdales.com": {
+    "bloomingdales.com": {
         "company": "Bloomingdale's",
         "policy": 0.48,
         "governance": 0.15,
@@ -242,7 +242,7 @@
         "spotlight_issues": 0.02,
         "overall": 0.1
     },
-    "https://www.bonprix.co.uk": {
+    "bonprix.co.uk": {
         "company": "Bonprix",
         "policy": 0.7,
         "governance": 0.54,
@@ -251,7 +251,7 @@
         "spotlight_issues": 0.17,
         "overall": 0.35
     },
-    "https://www.boohoo.com": {
+    "boohoo.com": {
         "company": "Boohoo",
         "policy": 0.52,
         "governance": 0.46,
@@ -260,7 +260,7 @@
         "spotlight_issues": 0.08,
         "overall": 0.2
     },
-    "https://www.bosidengfashion.com": {
+    "bosidengfashion.com": {
         "company": "Bosideng",
         "policy": 0.26,
         "governance": 0.15,
@@ -269,7 +269,7 @@
         "spotlight_issues": 0,
         "overall": 0.05
     },
-    "https://www.bottegaveneta.com/en-gb": {
+    "bottegaveneta.com": {
         "company": "Bottega Veneta",
         "policy": 0.85,
         "governance": 0.85,
@@ -278,7 +278,7 @@
         "spotlight_issues": 0.46,
         "overall": 0.42
     },
-    "https://www.brooksrunning.com/en_us": {
+    "brooksrunning.com": {
         "company": "Brooks Sport",
         "policy": 0.61,
         "governance": 0.31,
@@ -287,7 +287,7 @@
         "spotlight_issues": 0.22,
         "overall": 0.3
     },
-    "https://shop.brunellocucinelli.com": {
+    "shop.brunellocucinelli.com": {
         "company": "Brunello Cucinelli",
         "policy": 0.05,
         "governance": 0.08,
@@ -296,7 +296,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.05
     },
-    "https://www.buckle.com": {
+    "buckle.com": {
         "company": "Buckle",
         "policy": 0.3,
         "governance": 0.15,
@@ -305,7 +305,7 @@
         "spotlight_issues": 0,
         "overall": 0.07
     },
-    "https://www.burberry.com": {
+    "burberry.com": {
         "company": "Burberry",
         "policy": 0.86,
         "governance": 0.62,
@@ -314,7 +314,7 @@
         "spotlight_issues": 0.4,
         "overall": 0.34
     },
-    "https://www.burlington.com": {
+    "burlington.com": {
         "company": "Burlington",
         "policy": 0.47,
         "governance": 0.31,
@@ -323,7 +323,7 @@
         "spotlight_issues": 0.12,
         "overall": 0.15
     },
-    "https://www.c-and-a.com": {
+    "c-and-a.com": {
         "company": "C&a",
         "policy": 0.93,
         "governance": 0.77,
@@ -332,7 +332,7 @@
         "spotlight_issues": 0.43,
         "overall": 0.65
     },
-    "https://www.calvinklein.co.uk": {
+    "calvinklein.co.uk": {
         "company": "Calvin Klein",
         "policy": 0.89,
         "governance": 0.46,
@@ -341,7 +341,7 @@
         "spotlight_issues": 0.42,
         "overall": 0.59
     },
-    "https://www.calzedonia.com": {
+    "calzedonia.com": {
         "company": "Calzedonia",
         "policy": 0.42,
         "governance": 0.31,
@@ -350,7 +350,7 @@
         "spotlight_issues": 0.11,
         "overall": 0.11
     },
-    "https://www.canadagoose.com": {
+    "canadagoose.com": {
         "company": "Canada Goose",
         "policy": 0.3,
         "governance": 0,
@@ -359,7 +359,7 @@
         "spotlight_issues": 0.06,
         "overall": 0.08
     },
-    "https://www.carhartt-wip.com": {
+    "carhartt-wip.com": {
         "company": "Carhartt",
         "policy": 0.26,
         "governance": 0.15,
@@ -368,7 +368,7 @@
         "spotlight_issues": 0,
         "overall": 0.09
     },
-    "https://www.carolinaherrera.com": {
+    "carolinaherrera.com": {
         "company": "Carolina Herrera",
         "policy": 0.53,
         "governance": 0.15,
@@ -377,7 +377,7 @@
         "spotlight_issues": 0.14,
         "overall": 0.14
     },
-    "https://www.caroll.com": {
+    "caroll.com": {
         "company": "Caroll",
         "policy": 0.47,
         "governance": 0.08,
@@ -386,7 +386,7 @@
         "spotlight_issues": 0.07,
         "overall": 0.13
     },
-    "https://www.carrefour.com": {
+    "carrefour.com": {
         "company": "Carrefour ",
         "policy": 0.67,
         "governance": 0.46,
@@ -395,7 +395,7 @@
         "spotlight_issues": 0.13,
         "overall": 0.24
     },
-    "https://www.carters.com": {
+    "carters.com": {
         "company": "Carter's",
         "policy": 0.51,
         "governance": 0.15,
@@ -404,7 +404,7 @@
         "spotlight_issues": 0.04,
         "overall": 0.12
     },
-    "https://www.celine.com/": {
+    "celine.com": {
         "company": "Celine",
         "policy": 0.8,
         "governance": 0.77,
@@ -413,7 +413,7 @@
         "spotlight_issues": 0.11,
         "overall": 0.22
     },
-    "https://www.celio.com": {
+    "celio.com": {
         "company": "Celio",
         "policy": 0.03,
         "governance": 0,
@@ -422,7 +422,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.championstore.com": {
+    "championstore.com": {
         "company": "Champion",
         "policy": 0.64,
         "governance": 0.77,
@@ -431,7 +431,7 @@
         "spotlight_issues": 0.33,
         "overall": 0.39
     },
-    "https://www.chanel.com": {
+    "chanel.com": {
         "company": "Chanel",
         "policy": 0.45,
         "governance": 0.15,
@@ -440,7 +440,7 @@
         "spotlight_issues": 0.07,
         "overall": 0.11
     },
-    "https://www.chicos.com": {
+    "chicos.com": {
         "company": "Chico's",
         "policy": 0.39,
         "governance": 0.15,
@@ -449,7 +449,7 @@
         "spotlight_issues": 0.02,
         "overall": 0.08
     },
-    "https://www.chloe.com/": {
+    "chloe.com": {
         "company": "Chloé",
         "policy": 0.55,
         "governance": 0.62,
@@ -458,7 +458,7 @@
         "spotlight_issues": 0.13,
         "overall": 0.18
     },
-    "https://www.claires.com": {
+    "claires.com": {
         "company": "Claire's",
         "policy": 0.17,
         "governance": 0,
@@ -467,7 +467,7 @@
         "spotlight_issues": 0,
         "overall": 0.03
     },
-    "https://www.clarks.co.uk": {
+    "clarks.co.uk": {
         "company": "Clarks",
         "policy": 0.67,
         "governance": 0.38,
@@ -476,7 +476,7 @@
         "spotlight_issues": 0.08,
         "overall": 0.34
     },
-    "https://uk.coach.com": {
+    "uk.coach.com": {
         "company": "Coach",
         "policy": 0.58,
         "governance": 0.31,
@@ -485,7 +485,7 @@
         "spotlight_issues": 0.2,
         "overall": 0.22
     },
-    "https://www.colehaan.com": {
+    "colehaan.com": {
         "company": "Cole Haan",
         "policy": 0.21,
         "governance": 0.15,
@@ -494,7 +494,7 @@
         "spotlight_issues": 0.01,
         "overall": 0.06
     },
-    "https://www.columbiasportswear.co.uk": {
+    "columbiasportswear.co.uk": {
         "company": "Columbia Sportswear",
         "policy": 0.55,
         "governance": 0.46,
@@ -503,7 +503,7 @@
         "spotlight_issues": 0.16,
         "overall": 0.25
     },
-    "https://www.converse.com": {
+    "converse.com": {
         "company": "Converse",
         "policy": 0.92,
         "governance": 0.62,
@@ -512,7 +512,7 @@
         "spotlight_issues": 0.48,
         "overall": 0.55
     },
-    "https://cortefiel.com": {
+    "cortefiel.com": {
         "company": "Cortefiel",
         "policy": 0.58,
         "governance": 0.15,
@@ -521,7 +521,7 @@
         "spotlight_issues": 0.06,
         "overall": 0.15
     },
-    "https://www.costco.co.uk": {
+    "costco.co.uk": {
         "company": "Costco",
         "policy": 0.49,
         "governance": 0.23,
@@ -530,7 +530,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.12
     },
-    "https://cottonon.com": {
+    "cottonon.com": {
         "company": "Cotton On",
         "policy": 0.39,
         "governance": 0.08,
@@ -539,7 +539,7 @@
         "spotlight_issues": 0.02,
         "overall": 0.18
     },
-    "https://www.decathlon.co.uk/": {
+    "decathlon.co.uk": {
         "company": "Decathlon",
         "policy": 0.7,
         "governance": 0.15,
@@ -548,7 +548,7 @@
         "spotlight_issues": 0.25,
         "overall": 0.24
     },
-    "https://www.deichmann.com/": {
+    "deichmann.com": {
         "company": "Deichmann",
         "policy": 0.18,
         "governance": 0,
@@ -557,7 +557,7 @@
         "spotlight_issues": 0,
         "overall": 0.02
     },
-    "https://www.desigual.com/": {
+    "desigual.com": {
         "company": "Desigual",
         "policy": 0.56,
         "governance": 0,
@@ -566,7 +566,7 @@
         "spotlight_issues": 0.1,
         "overall": 0.21
     },
-    "https://www.dickssportinggoods.com/": {
+    "dickssportinggoods.com": {
         "company": "Dick's Sporting Goods",
         "policy": 0.63,
         "governance": 0.31,
@@ -575,7 +575,7 @@
         "spotlight_issues": 0.12,
         "overall": 0.31
     },
-    "https://uk.diesel.com/": {
+    "uk.diesel.com": {
         "company": "Diesel",
         "policy": 0.42,
         "governance": 0,
@@ -584,7 +584,7 @@
         "spotlight_issues": 0.02,
         "overall": 0.07
     },
-    "https://www.dillards.com/": {
+    "dillards.com": {
         "company": "Dillard's",
         "policy": 0.19,
         "governance": 0.15,
@@ -593,7 +593,7 @@
         "spotlight_issues": 0,
         "overall": 0.06
     },
-    "https://www.dior.com/": {
+    "dior.com": {
         "company": "Dior",
         "policy": 0.8,
         "governance": 0.77,
@@ -602,7 +602,7 @@
         "spotlight_issues": 0.11,
         "overall": 0.22
     },
-    "https://www.shopdisney.co.uk/": {
+    "shopdisney.co.uk": {
         "company": "Disney",
         "policy": 0.49,
         "governance": 0.31,
@@ -611,7 +611,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.21
     },
-    "https://www.donnakaran.com/": {
+    "donnakaran.com": {
         "company": "Dkny",
         "policy": 0.08,
         "governance": 0,
@@ -620,7 +620,7 @@
         "spotlight_issues": 0,
         "overall": 0.02
     },
-    "https://www.dolcegabbana.com/": {
+    "dolcegabbana.com": {
         "company": "Dolce & Gabbana",
         "policy": 0.12,
         "governance": 0,
@@ -629,7 +629,7 @@
         "spotlight_issues": 0,
         "overall": 0.02
     },
-    "https://www.drmartens.com/": {
+    "drmartens.com": {
         "company": "Dr. Martens",
         "policy": 0.49,
         "governance": 0.31,
@@ -638,7 +638,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.15
     },
-    "https://dressmann.com/": {
+    "dressmann.com": {
         "company": "Dressmann",
         "policy": 0.82,
         "governance": 0.62,
@@ -647,7 +647,7 @@
         "spotlight_issues": 0.24,
         "overall": 0.48
     },
-    "https://www.dsw.com/": {
+    "dsw.com": {
         "company": "Dsw",
         "policy": 0.35,
         "governance": 0.15,
@@ -656,7 +656,7 @@
         "spotlight_issues": 0.04,
         "overall": 0.09
     },
-    "https://www.eddiebauer.com/": {
+    "eddiebauer.com": {
         "company": "Eddie Bauer",
         "policy": 0.16,
         "governance": 0,
@@ -665,7 +665,7 @@
         "spotlight_issues": 0.01,
         "overall": 0.03
     },
-    "https://www.elcorteingles.com/": {
+    "elcorteingles.com": {
         "company": "El Corte Inglés",
         "policy": 0.73,
         "governance": 0.31,
@@ -674,7 +674,7 @@
         "spotlight_issues": 0.22,
         "overall": 0.28
     },
-    "https://www.elietahari.com/": {
+    "elietahari.com": {
         "company": "Elie Tahari",
         "policy": 0,
         "governance": 0,
@@ -683,7 +683,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.zegna.com/": {
+    "zegna.com": {
         "company": "Ermenegildo Zegna",
         "policy": 0.33,
         "governance": 0.15,
@@ -692,7 +692,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.33
     },
-    "https://www.esprit.co.uk/": {
+    "esprit.co.uk": {
         "company": "Esprit",
         "policy": 0.84,
         "governance": 0.62,
@@ -701,7 +701,7 @@
         "spotlight_issues": 0.33,
         "overall": 0.6
     },
-    "https://www.express.com/": {
+    "express.com": {
         "company": "Express",
         "policy": 0.23,
         "governance": 0.15,
@@ -710,7 +710,7 @@
         "spotlight_issues": 0,
         "overall": 0.06
     },
-    "https://www.falabella.com/": {
+    "falabella.com": {
         "company": "Falabella",
         "policy": 0.55,
         "governance": 0.46,
@@ -719,7 +719,7 @@
         "spotlight_issues": 0.11,
         "overall": 0.17
     },
-    "https://www.famousfootwear.com/": {
+    "famousfootwear.com": {
         "company": "Famous Footwear",
         "policy": 0.3,
         "governance": 0.15,
@@ -728,7 +728,7 @@
         "spotlight_issues": 0,
         "overall": 0.06
     },
-    "https://www.fanatics.com/": {
+    "fanatics.com": {
         "company": "Fanatics",
         "policy": 0.2,
         "governance": 0,
@@ -737,7 +737,7 @@
         "spotlight_issues": 0.01,
         "overall": 0.12
     },
-    "https://www.fashionnova.com/": {
+    "fashionnova.com": {
         "company": "Fashion Nova",
         "policy": 0.02,
         "governance": 0,
@@ -746,7 +746,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.fendi.com/": {
+    "fendi.com": {
         "company": "Fendi",
         "policy": 0.8,
         "governance": 0.77,
@@ -755,7 +755,7 @@
         "spotlight_issues": 0.16,
         "overall": 0.43
     },
-    "https://fila.co.uk/": {
+    "fila.co.uk": {
         "company": "Fila",
         "policy": 0.2,
         "governance": 0.08,
@@ -764,7 +764,7 @@
         "spotlight_issues": 0.01,
         "overall": 0.04
     },
-    "https://www.fjallraven.com/": {
+    "fjallraven.com": {
         "company": "Fjällräven",
         "policy": 0.7,
         "governance": 0.62,
@@ -773,7 +773,7 @@
         "spotlight_issues": 0.24,
         "overall": 0.28
     },
-    "https://www.footlocker.co.uk/": {
+    "footlocker.co.uk": {
         "company": "Foot Locker",
         "policy": 0.28,
         "governance": 0.31,
@@ -782,7 +782,7 @@
         "spotlight_issues": 0.02,
         "overall": 0.07
     },
-    "https://www.foschini.co.za/": {
+    "foschini.co.za": {
         "company": "Foschini",
         "policy": 0.42,
         "governance": 0.31,
@@ -791,7 +791,7 @@
         "spotlight_issues": 0.12,
         "overall": 0.17
     },
-    "https://www.fossil.com/": {
+    "fossil.com": {
         "company": "Fossil",
         "policy": 0.49,
         "governance": 0,
@@ -800,7 +800,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.13
     },
-    "https://www.freepeople.com/": {
+    "freepeople.com": {
         "company": "Free People",
         "policy": 0.4,
         "governance": 0.31,
@@ -809,7 +809,7 @@
         "spotlight_issues": 0.18,
         "overall": 0.16
     },
-    "https://www.fruitoftheloom.eu/": {
+    "fruitoftheloom.eu": {
         "company": "Fruit Of The Loom",
         "policy": 0.64,
         "governance": 0.31,
@@ -818,7 +818,7 @@
         "spotlight_issues": 0.25,
         "overall": 0.34
     },
-    "https://www.furla.com/": {
+    "furla.com": {
         "company": "Furla",
         "policy": 0.36,
         "governance": 0.15,
@@ -827,7 +827,7 @@
         "spotlight_issues": 0,
         "overall": 0.07
     },
-    "https://www.g-star.com/": {
+    "g-star.com": {
         "company": "G-star Raw",
         "policy": 0.87,
         "governance": 0.62,
@@ -836,7 +836,7 @@
         "spotlight_issues": 0.17,
         "overall": 0.43
     },
-    "https://www.gap.co.uk/": {
+    "gap.co.uk": {
         "company": "Gap",
         "policy": 0.91,
         "governance": 0.46,
@@ -845,7 +845,7 @@
         "spotlight_issues": 0.35,
         "overall": 0.49
     },
-    "https://www.gerryweber.com/": {
+    "gerryweber.com": {
         "company": "Gerry Weber",
         "policy": 0.16,
         "governance": 0.15,
@@ -854,7 +854,7 @@
         "spotlight_issues": 0,
         "overall": 0.05
     },
-    "https://www.gildanbrands.com/": {
+    "gildanbrands.com": {
         "company": "Gildan",
         "policy": 0.9,
         "governance": 0.62,
@@ -863,7 +863,7 @@
         "spotlight_issues": 0.36,
         "overall": 0.63
     },
-    "https://www.gu-global.com/": {
+    "gu-global.com": {
         "company": "Gu",
         "policy": 0.86,
         "governance": 0.46,
@@ -872,7 +872,7 @@
         "spotlight_issues": 0.33,
         "overall": 0.42
     },
-    "https://www.gucci.com/": {
+    "gucci.com": {
         "company": "Gucci",
         "policy": 0.89,
         "governance": 0.85,
@@ -881,7 +881,7 @@
         "spotlight_issues": 0.66,
         "overall": 0.56
     },
-    "https://www.guess.eu/": {
+    "guess.eu": {
         "company": "Guess",
         "policy": 0.54,
         "governance": 0.23,
@@ -890,7 +890,7 @@
         "spotlight_issues": 0.07,
         "overall": 0.12
     },
-    "https://www2.hm.com/": {
+    "www2.hm.com": {
         "company": "H&m",
         "policy": 0.87,
         "governance": 0.85,
@@ -899,7 +899,7 @@
         "spotlight_issues": 0.54,
         "overall": 0.68
     },
-    "https://www.hanes.com/": {
+    "hanes.com": {
         "company": "Hanes",
         "policy": 0.64,
         "governance": 0.77,
@@ -908,7 +908,7 @@
         "spotlight_issues": 0.33,
         "overall": 0.39
     },
-    "http://www.hla.com.cn/": {
+    "http:": {
         "company": "Heilan Home",
         "policy": 0.02,
         "governance": 0,
@@ -917,7 +917,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.hellyhansen.com/": {
+    "hellyhansen.com": {
         "company": "Helly Hansen",
         "policy": 0.46,
         "governance": 0.15,
@@ -926,7 +926,7 @@
         "spotlight_issues": 0.18,
         "overall": 0.36
     },
-    "https://www.hema.com/": {
+    "hema.com": {
         "company": "Hema",
         "policy": 0.43,
         "governance": 0.23,
@@ -935,7 +935,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.24
     },
-    "https://www.hermes.com/": {
+    "hermes.com": {
         "company": "Hermès",
         "policy": 0.93,
         "governance": 0.69,
@@ -944,7 +944,7 @@
         "spotlight_issues": 0.27,
         "overall": 0.37
     },
-    "https://www.hollisterco.com/": {
+    "hollisterco.com": {
         "company": "Hollister Co.",
         "policy": 0.57,
         "governance": 0.31,
@@ -953,7 +953,7 @@
         "spotlight_issues": 0.12,
         "overall": 0.2
     },
-    "https://www.thebay.com/": {
+    "thebay.com": {
         "company": "Hudson's Bay",
         "policy": 0.48,
         "governance": 0.15,
@@ -962,7 +962,7 @@
         "spotlight_issues": 0.01,
         "overall": 0.13
     },
-    "https://www.hugoboss.com/": {
+    "hugoboss.com": {
         "company": "Hugo Boss",
         "policy": 0.77,
         "governance": 0.85,
@@ -971,7 +971,7 @@
         "spotlight_issues": 0.19,
         "overall": 0.34
     },
-    "https://www.intimissimi.com/": {
+    "intimissimi.com": {
         "company": "Intimissimi",
         "policy": 0.42,
         "governance": 0.31,
@@ -980,7 +980,7 @@
         "spotlight_issues": 0.11,
         "overall": 0.11
     },
-    "https://www.itoyokado.co.jp/": {
+    "itoyokado.co.jp": {
         "company": "Ito-yokado",
         "policy": 0.62,
         "governance": 0.15,
@@ -989,7 +989,7 @@
         "spotlight_issues": 0.06,
         "overall": 0.15
     },
-    "https://www.jackjones.com/": {
+    "jackjones.com": {
         "company": "Jack & Jones",
         "policy": 0.64,
         "governance": 0.31,
@@ -998,7 +998,7 @@
         "spotlight_issues": 0.14,
         "overall": 0.25
     },
-    "https://www.jdsports.co.uk/": {
+    "jdsports.co.uk": {
         "company": "Jd Sports",
         "policy": 0.53,
         "governance": 0.38,
@@ -1007,7 +1007,7 @@
         "spotlight_issues": 0.18,
         "overall": 0.27
     },
-    "https://jessicasimpson.com/": {
+    "jessicasimpson.com": {
         "company": "Jessica Simpson",
         "policy": 0,
         "governance": 0,
@@ -1016,7 +1016,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.jilsander.com/": {
+    "jilsander.com": {
         "company": "Jil Sander",
         "policy": 0.25,
         "governance": 0,
@@ -1025,7 +1025,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.06
     },
-    "https://www.jockey.co.uk/": {
+    "jockey.co.uk": {
         "company": "Jockey",
         "policy": 0.14,
         "governance": 0,
@@ -1034,7 +1034,7 @@
         "spotlight_issues": 0,
         "overall": 0.02
     },
-    "https://www.joefresh.com/": {
+    "joefresh.com": {
         "company": "Joe Fresh",
         "policy": 0.47,
         "governance": 0.15,
@@ -1043,7 +1043,7 @@
         "spotlight_issues": 0.06,
         "overall": 0.13
     },
-    "https://www.johnlewis.com/": {
+    "johnlewis.com": {
         "company": "John Lewis",
         "policy": 0.61,
         "governance": 0.15,
@@ -1052,7 +1052,7 @@
         "spotlight_issues": 0.25,
         "overall": 0.27
     },
-    "https://www.nike.com/gb/jordan": {
+    "nike.com": {
         "company": "Jordan",
         "policy": 0.92,
         "governance": 0.62,
@@ -1061,7 +1061,7 @@
         "spotlight_issues": 0.48,
         "overall": 0.55
     },
-    "https://www.justfab.co.uk": {
+    "justfab.co.uk": {
         "company": "Justfab",
         "policy": 0.19,
         "governance": 0,
@@ -1070,7 +1070,7 @@
         "spotlight_issues": 0,
         "overall": 0.03
     },
-    "https://k-way.us": {
+    "k-way.us": {
         "company": "K-way",
         "policy": 0.24,
         "governance": 0.15,
@@ -1079,7 +1079,7 @@
         "spotlight_issues": 0,
         "overall": 0.04
     },
-    "https://www.katespade.co.uk": {
+    "katespade.co.uk": {
         "company": "Kate Spade",
         "policy": 0.58,
         "governance": 0.31,
@@ -1088,7 +1088,7 @@
         "spotlight_issues": 0.2,
         "overall": 0.22
     },
-    "https://www.kathmandu.co.uk": {
+    "kathmandu.co.uk": {
         "company": "Kathmandu",
         "policy": 0.72,
         "governance": 0.15,
@@ -1097,7 +1097,7 @@
         "spotlight_issues": 0.12,
         "overall": 0.25
     },
-    "https://www.kaufland.com": {
+    "kaufland.com": {
         "company": "Kaufland",
         "policy": 0.25,
         "governance": 0.15,
@@ -1106,7 +1106,7 @@
         "spotlight_issues": 0.06,
         "overall": 0.14
     },
-    "https://www.kiabi.com": {
+    "kiabi.com": {
         "company": "Kiabi",
         "policy": 0.39,
         "governance": 0.38,
@@ -1115,7 +1115,7 @@
         "spotlight_issues": 0.18,
         "overall": 0.22
     },
-    "https://kikclothing.com": {
+    "kikclothing.com": {
         "company": "Kik",
         "policy": 0.57,
         "governance": 0.23,
@@ -1124,7 +1124,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.14
     },
-    "https://www.kmart.com": {
+    "kmart.com": {
         "company": "Kmart ",
         "policy": 0.33,
         "governance": 0.31,
@@ -1133,7 +1133,7 @@
         "spotlight_issues": 0,
         "overall": 0.08
     },
-    "https://www.kmart.com.au": {
+    "kmart.com.au": {
         "company": "Kmart Australia",
         "policy": 0.86,
         "governance": 0.62,
@@ -1142,7 +1142,7 @@
         "spotlight_issues": 0.45,
         "overall": 0.56
     },
-    "https://www.kohls.com": {
+    "kohls.com": {
         "company": "Kohl's",
         "policy": 0.55,
         "governance": 0.15,
@@ -1151,7 +1151,7 @@
         "spotlight_issues": 0.08,
         "overall": 0.15
     },
-    "https://koovs.com": {
+    "koovs.com": {
         "company": "Koovs",
         "policy": 0,
         "governance": 0,
@@ -1160,7 +1160,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.laredoute.co.uk": {
+    "laredoute.co.uk": {
         "company": "La Redoute",
         "policy": 0.38,
         "governance": 0.15,
@@ -1169,7 +1169,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.09
     },
-    "https://www.lacoste.com": {
+    "lacoste.com": {
         "company": "Lacoste",
         "policy": 0.6,
         "governance": 0.31,
@@ -1178,7 +1178,7 @@
         "spotlight_issues": 0.13,
         "overall": 0.35
     },
-    "https://www.landsend.co.uk": {
+    "landsend.co.uk": {
         "company": "Lands' End",
         "policy": 0.58,
         "governance": 0.31,
@@ -1187,7 +1187,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.14
     },
-    "https://www.lcwaikiki.com": {
+    "lcwaikiki.com": {
         "company": "Lc Waikiki",
         "policy": 0.22,
         "governance": 0,
@@ -1196,7 +1196,7 @@
         "spotlight_issues": 0.01,
         "overall": 0.04
     },
-    "https://www.levi.com": {
+    "levi.com": {
         "company": "Levi Strauss & Co",
         "policy": 0.93,
         "governance": 0.62,
@@ -1205,7 +1205,7 @@
         "spotlight_issues": 0.33,
         "overall": 0.44
     },
-    "https://en.lining.com": {
+    "en.lining.com": {
         "company": "Li-ning",
         "policy": 0.51,
         "governance": 0.23,
@@ -1214,7 +1214,7 @@
         "spotlight_issues": 0.06,
         "overall": 0.13
     },
-    "https://www.lidl.co.uk": {
+    "lidl.co.uk": {
         "company": "Lidl",
         "policy": 0.58,
         "governance": 0.31,
@@ -1223,7 +1223,7 @@
         "spotlight_issues": 0.17,
         "overall": 0.27
     },
-    "https://www.lindex.com": {
+    "lindex.com": {
         "company": "Lindex",
         "policy": 0.73,
         "governance": 0.31,
@@ -1232,7 +1232,7 @@
         "spotlight_issues": 0.31,
         "overall": 0.5
     },
-    "https://global.llbean.com": {
+    "global.llbean.com": {
         "company": "Ll Bean",
         "policy": 0.2,
         "governance": 0,
@@ -1241,7 +1241,7 @@
         "spotlight_issues": 0.01,
         "overall": 0.09
     },
-    "https://www.longchamp.com": {
+    "longchamp.com": {
         "company": "Longchamp",
         "policy": 0.12,
         "governance": 0.15,
@@ -1250,7 +1250,7 @@
         "spotlight_issues": 0.01,
         "overall": 0.03
     },
-    "https://uk.louisvuitton.com": {
+    "uk.louisvuitton.com": {
         "company": "Louis Vuitton",
         "policy": 0.8,
         "governance": 0.77,
@@ -1259,7 +1259,7 @@
         "spotlight_issues": 0.11,
         "overall": 0.22
     },
-    "https://www.lululemon.co.uk": {
+    "lululemon.co.uk": {
         "company": "Lululemon",
         "policy": 0.78,
         "governance": 0.46,
@@ -1268,7 +1268,7 @@
         "spotlight_issues": 0.17,
         "overall": 0.42
     },
-    "https://www.macys.com": {
+    "macys.com": {
         "company": "Macy's",
         "policy": 0.48,
         "governance": 0.15,
@@ -1277,7 +1277,7 @@
         "spotlight_issues": 0.02,
         "overall": 0.1
     },
-    "https://www.mammut.com": {
+    "mammut.com": {
         "company": "Mammut",
         "policy": 0.52,
         "governance": 0.15,
@@ -1286,7 +1286,7 @@
         "spotlight_issues": 0.27,
         "overall": 0.31
     },
-    "https://shop.mango.com": {
+    "shop.mango.com": {
         "company": "Mango",
         "policy": 0.65,
         "governance": 0.15,
@@ -1295,7 +1295,7 @@
         "spotlight_issues": 0.22,
         "overall": 0.26
     },
-    "https://www.marcjacobs.com": {
+    "marcjacobs.com": {
         "company": "Marc Jacobs",
         "policy": 0.8,
         "governance": 0.77,
@@ -1304,7 +1304,7 @@
         "spotlight_issues": 0.1,
         "overall": 0.22
     },
-    "https://www.marksandspencer.com": {
+    "marksandspencer.com": {
         "company": "Marks & Spencer",
         "policy": 0.83,
         "governance": 0.62,
@@ -1313,7 +1313,7 @@
         "spotlight_issues": 0.29,
         "overall": 0.48
     },
-    "https://www.marni.com": {
+    "marni.com": {
         "company": "Marni",
         "policy": 0.28,
         "governance": 0,
@@ -1322,7 +1322,7 @@
         "spotlight_issues": 0,
         "overall": 0.05
     },
-    "https://www.massimodutti.com": {
+    "massimodutti.com": {
         "company": "Massimo Dutti",
         "policy": 0.89,
         "governance": 0.62,
@@ -1331,7 +1331,7 @@
         "spotlight_issues": 0.42,
         "overall": 0.36
     },
-    "https://www.matalan.co.uk": {
+    "matalan.co.uk": {
         "company": "Matalan",
         "policy": 0.45,
         "governance": 0.08,
@@ -1340,7 +1340,7 @@
         "spotlight_issues": 0.07,
         "overall": 0.17
     },
-    "https://gb.maxmara.com": {
+    "gb.maxmara.com": {
         "company": "Max Mara",
         "policy": 0.03,
         "governance": 0,
@@ -1349,7 +1349,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.merrell.com": {
+    "merrell.com": {
         "company": "Merrell",
         "policy": 0.39,
         "governance": 0,
@@ -1358,7 +1358,7 @@
         "spotlight_issues": 0.04,
         "overall": 0.09
     },
-    "https://www.metersbonwe.com": {
+    "metersbonwe.com": {
         "company": "Metersbonwe",
         "policy": 0,
         "governance": 0,
@@ -1367,7 +1367,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.mexx.com": {
+    "mexx.com": {
         "company": "Mexx",
         "policy": 0,
         "governance": 0,
@@ -1376,7 +1376,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.michaelkors.co.uk": {
+    "michaelkors.co.uk": {
         "company": "Michael Kors",
         "policy": 0.58,
         "governance": 0.31,
@@ -1385,7 +1385,7 @@
         "spotlight_issues": 0.08,
         "overall": 0.16
     },
-    "https://www.miumiu.com": {
+    "miumiu.com": {
         "company": "Miu Miu",
         "policy": 0.48,
         "governance": 0.31,
@@ -1394,7 +1394,7 @@
         "spotlight_issues": 0.13,
         "overall": 0.18
     },
-    "https://emea.mizuno.com": {
+    "emea.mizuno.com": {
         "company": "Mizuno",
         "policy": 0.54,
         "governance": 0.15,
@@ -1403,7 +1403,7 @@
         "spotlight_issues": 0.12,
         "overall": 0.22
     },
-    "https://www.moncler.com": {
+    "moncler.com": {
         "company": "Moncler",
         "policy": 0.69,
         "governance": 0.31,
@@ -1412,7 +1412,7 @@
         "spotlight_issues": 0.12,
         "overall": 0.18
     },
-    "https://www.monoprix.fr": {
+    "monoprix.fr": {
         "company": "Monoprix",
         "policy": 0.73,
         "governance": 0.46,
@@ -1421,7 +1421,7 @@
         "spotlight_issues": 0.11,
         "overall": 0.18
     },
-    "https://nutmeg.morrisons.com/": {
+    "nutmeg.morrisons.com": {
         "company": "Morrisons",
         "policy": 0.57,
         "governance": 0.31,
@@ -1430,7 +1430,7 @@
         "spotlight_issues": 0.2,
         "overall": 0.28
     },
-    "https://www.mrp.com": {
+    "mrp.com": {
         "company": "Mrp",
         "policy": 0.43,
         "governance": 0.31,
@@ -1439,7 +1439,7 @@
         "spotlight_issues": 0.1,
         "overall": 0.15
     },
-    "https://www.muji.eu": {
+    "muji.eu": {
         "company": "Muji",
         "policy": 0.75,
         "governance": 0.31,
@@ -1448,7 +1448,7 @@
         "spotlight_issues": 0.14,
         "overall": 0.22
     },
-    "https://www.newbalance.co.uk": {
+    "newbalance.co.uk": {
         "company": "New Balance",
         "policy": 0.81,
         "governance": 0.54,
@@ -1457,7 +1457,7 @@
         "spotlight_issues": 0.23,
         "overall": 0.42
     },
-    "https://www.newlook.com": {
+    "newlook.com": {
         "company": "New Look",
         "policy": 0.68,
         "governance": 0.46,
@@ -1466,7 +1466,7 @@
         "spotlight_issues": 0.18,
         "overall": 0.34
     },
-    "https://www.newyorker.com": {
+    "newyorker.com": {
         "company": "New Yorker",
         "policy": 0.03,
         "governance": 0,
@@ -1475,7 +1475,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.next.co.uk": {
+    "next.co.uk": {
         "company": "Next",
         "policy": 0.89,
         "governance": 0.23,
@@ -1484,7 +1484,7 @@
         "spotlight_issues": 0.28,
         "overall": 0.4
     },
-    "https://www.nike.com": {
+    "nike.com": {
         "company": "Nike",
         "policy": 0.92,
         "governance": 0.62,
@@ -1493,7 +1493,7 @@
         "spotlight_issues": 0.48,
         "overall": 0.55
     },
-    "https://ninewest.com": {
+    "ninewest.com": {
         "company": "Nine West",
         "policy": 0.08,
         "governance": 0,
@@ -1502,7 +1502,7 @@
         "spotlight_issues": 0,
         "overall": 0.01
     },
-    "https://www.nordstrom.com": {
+    "nordstrom.com": {
         "company": "Nordstrom",
         "policy": 0.64,
         "governance": 0.31,
@@ -1511,7 +1511,7 @@
         "spotlight_issues": 0.23,
         "overall": 0.28
     },
-    "https://oldnavy.gap.com": {
+    "oldnavy.gap.com": {
         "company": "Old Navy",
         "policy": 0.91,
         "governance": 0.46,
@@ -1520,7 +1520,7 @@
         "spotlight_issues": 0.35,
         "overall": 0.49
     },
-    "https://www.otto.de": {
+    "otto.de": {
         "company": "Otto",
         "policy": 0.56,
         "governance": 0.46,
@@ -1529,7 +1529,7 @@
         "spotlight_issues": 0.07,
         "overall": 0.2
     },
-    "https://www.ovsfashion.com": {
+    "ovsfashion.com": {
         "company": "Ovs",
         "policy": 0.94,
         "governance": 0.77,
@@ -1538,7 +1538,7 @@
         "spotlight_issues": 0.72,
         "overall": 0.78
     },
-    "https://www.axparis.com": {
+    "axparis.com": {
         "company": "Paris",
         "policy": 0.45,
         "governance": 0.15,
@@ -1547,7 +1547,7 @@
         "spotlight_issues": 0.11,
         "overall": 0.12
     },
-    "https://eu.patagonia.com": {
+    "eu.patagonia.com": {
         "company": "Patagonia",
         "policy": 0.78,
         "governance": 0.54,
@@ -1556,7 +1556,7 @@
         "spotlight_issues": 0.41,
         "overall": 0.56
     },
-    "https://www.pepejeans.com/": {
+    "pepejeans.com": {
         "company": "Pepe Jeans",
         "policy": 0.02,
         "governance": 0,
@@ -1565,7 +1565,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.pimkie.fr": {
+    "pimkie.fr": {
         "company": "Pimkie",
         "policy": 0.55,
         "governance": 0.54,
@@ -1574,7 +1574,7 @@
         "spotlight_issues": 0.23,
         "overall": 0.29
     },
-    "https://www.prada.com": {
+    "prada.com": {
         "company": "Prada",
         "policy": 0.48,
         "governance": 0.31,
@@ -1583,7 +1583,7 @@
         "spotlight_issues": 0.13,
         "overall": 0.18
     },
-    "https://www.prettylittlething.com": {
+    "prettylittlething.com": {
         "company": "Prettylittlething",
         "policy": 0.52,
         "governance": 0.46,
@@ -1592,7 +1592,7 @@
         "spotlight_issues": 0.08,
         "overall": 0.2
     },
-    "https://www.primark.com": {
+    "primark.com": {
         "company": "Primark",
         "policy": 0.85,
         "governance": 0.38,
@@ -1601,7 +1601,7 @@
         "spotlight_issues": 0.3,
         "overall": 0.38
     },
-    "https://prismaclothingandbrands.com": {
+    "prismaclothingandbrands.com": {
         "company": "Prisma",
         "policy": 0.63,
         "governance": 0.46,
@@ -1610,7 +1610,7 @@
         "spotlight_issues": 0.1,
         "overall": 0.25
     },
-    "https://www.pullandbear.com": {
+    "pullandbear.com": {
         "company": "Pull&bear",
         "policy": 0.89,
         "governance": 0.62,
@@ -1619,7 +1619,7 @@
         "spotlight_issues": 0.43,
         "overall": 0.36
     },
-    "https://uk.puma.com": {
+    "uk.puma.com": {
         "company": "Puma",
         "policy": 0.94,
         "governance": 0.85,
@@ -1628,7 +1628,7 @@
         "spotlight_issues": 0.37,
         "overall": 0.51
     },
-    "https://www.quiksilver.co.uk": {
+    "quiksilver.co.uk": {
         "company": "Quiksilver",
         "policy": 0.02,
         "governance": 0,
@@ -1637,7 +1637,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.ralphlauren.co.uk": {
+    "ralphlauren.co.uk": {
         "company": "Ralph Lauren",
         "policy": 0.71,
         "governance": 0.46,
@@ -1646,7 +1646,7 @@
         "spotlight_issues": 0.34,
         "overall": 0.29
     },
-    "https://www.reebok.co.uk": {
+    "reebok.co.uk": {
         "company": "Reebok",
         "policy": 0.91,
         "governance": 0.62,
@@ -1655,7 +1655,7 @@
         "spotlight_issues": 0.39,
         "overall": 0.54
     },
-    "https://www.rei.com": {
+    "rei.com": {
         "company": "Rei",
         "policy": 0.5,
         "governance": 0.23,
@@ -1664,7 +1664,7 @@
         "spotlight_issues": 0.16,
         "overall": 0.19
     },
-    "https://relianceretail.com": {
+    "relianceretail.com": {
         "company": "Reliance Trends",
         "policy": 0.34,
         "governance": 0.15,
@@ -1673,7 +1673,7 @@
         "spotlight_issues": 0.02,
         "overall": 0.07
     },
-    "https://www.reserved.com": {
+    "reserved.com": {
         "company": "Reserved",
         "policy": 0.52,
         "governance": 0.23,
@@ -1682,7 +1682,7 @@
         "spotlight_issues": 0.17,
         "overall": 0.15
     },
-    "https://www.revolve.com": {
+    "revolve.com": {
         "company": "Revolve",
         "policy": 0.02,
         "governance": 0.31,
@@ -1691,7 +1691,7 @@
         "spotlight_issues": 0,
         "overall": 0.02
     },
-    "https://www.riverisland.com": {
+    "riverisland.com": {
         "company": "River Island",
         "policy": 0.64,
         "governance": 0.38,
@@ -1700,7 +1700,7 @@
         "spotlight_issues": 0.01,
         "overall": 0.22
     },
-    "https://www.rossstores.com": {
+    "rossstores.com": {
         "company": "Ross Dress For Less",
         "policy": 0.25,
         "governance": 0,
@@ -1709,7 +1709,7 @@
         "spotlight_issues": 0.01,
         "overall": 0.06
     },
-    "https://www.roxy-uk.co.uk": {
+    "roxy-uk.co.uk": {
         "company": "Roxy",
         "policy": 0.02,
         "governance": 0,
@@ -1718,7 +1718,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://russellathletic.eu": {
+    "russellathletic.eu": {
         "company": "Russell Athletic",
         "policy": 0.64,
         "governance": 0.31,
@@ -1727,7 +1727,7 @@
         "spotlight_issues": 0.25,
         "overall": 0.34
     },
-    "https://www.soliver.eu": {
+    "soliver.eu": {
         "company": "S.oliver",
         "policy": 0.55,
         "governance": 0.08,
@@ -1736,7 +1736,7 @@
         "spotlight_issues": 0.06,
         "overall": 0.11
     },
-    "https://tuclothing.sainsburys.co.uk": {
+    "tuclothing.sainsburys.co.uk": {
         "company": "Sainsbury's",
         "policy": 0.69,
         "governance": 0.77,
@@ -1745,7 +1745,7 @@
         "spotlight_issues": 0.31,
         "overall": 0.48
     },
-    "https://www.ysl.com": {
+    "ysl.com": {
         "company": "Saint Laurent",
         "policy": 0.85,
         "governance": 0.85,
@@ -1754,7 +1754,7 @@
         "spotlight_issues": 0.47,
         "overall": 0.43
     },
-    "https://www.saksfifthavenue.com": {
+    "saksfifthavenue.com": {
         "company": "Saks Fifth Avenue",
         "policy": 0.48,
         "governance": 0.15,
@@ -1763,7 +1763,7 @@
         "spotlight_issues": 0.01,
         "overall": 0.13
     },
-    "https://www.ferragamo.com": {
+    "ferragamo.com": {
         "company": "Salvatore Ferragamo",
         "policy": 0.67,
         "governance": 0.62,
@@ -1772,7 +1772,7 @@
         "spotlight_issues": 0.24,
         "overall": 0.25
     },
-    "https://uk.sandro-paris.com": {
+    "uk.sandro-paris.com": {
         "company": "Sandro",
         "policy": 0.39,
         "governance": 0.08,
@@ -1781,7 +1781,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.09
     },
-    "https://www.semir.com": {
+    "semir.com": {
         "company": "Semir",
         "policy": 0.02,
         "governance": 0,
@@ -1790,7 +1790,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://m.shein.co.uk": {
+    "m.shein.co.uk": {
         "company": "Shein",
         "policy": 0.08,
         "governance": 0,
@@ -1799,7 +1799,7 @@
         "spotlight_issues": 0,
         "overall": 0.01
     },
-    "https://www.skechers.co.uk": {
+    "skechers.co.uk": {
         "company": "Skechers",
         "policy": 0.37,
         "governance": 0.15,
@@ -1808,7 +1808,7 @@
         "spotlight_issues": 0.01,
         "overall": 0.08
     },
-    "https://www.speedo.com": {
+    "speedo.com": {
         "company": "Speedo",
         "policy": 0.83,
         "governance": 0.77,
@@ -1817,7 +1817,7 @@
         "spotlight_issues": 0.43,
         "overall": 0.53
     },
-    "https://www.splashclothing.com": {
+    "splashclothing.com": {
         "company": "Splash",
         "policy": 0.3,
         "governance": 0.23,
@@ -1826,7 +1826,7 @@
         "spotlight_issues": 0.1,
         "overall": 0.09
     },
-    "https://www.sportsdirect.com": {
+    "sportsdirect.com": {
         "company": "Sports Direct",
         "policy": 0.22,
         "governance": 0.08,
@@ -1835,7 +1835,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.05
     },
-    "https://stevemadden.co.uk": {
+    "stevemadden.co.uk": {
         "company": "Steve Madden",
         "policy": 0.51,
         "governance": 0.15,
@@ -1844,7 +1844,7 @@
         "spotlight_issues": 0.08,
         "overall": 0.14
     },
-    "https://www.stradivarius.com": {
+    "stradivarius.com": {
         "company": "Stradivarius",
         "policy": 0.89,
         "governance": 0.62,
@@ -1853,7 +1853,7 @@
         "spotlight_issues": 0.42,
         "overall": 0.36
     },
-    "https://www.superdry.com": {
+    "superdry.com": {
         "company": "Superdry",
         "policy": 0.8,
         "governance": 0.62,
@@ -1862,7 +1862,7 @@
         "spotlight_issues": 0.41,
         "overall": 0.32
     },
-    "https://www.takko.com/": {
+    "takko.com": {
         "company": "Takko",
         "policy": 0.34,
         "governance": 0,
@@ -1871,7 +1871,7 @@
         "spotlight_issues": 0.07,
         "overall": 0.12
     },
-    "https://www.target.com": {
+    "target.com": {
         "company": "Target",
         "policy": 0.89,
         "governance": 0.31,
@@ -1880,7 +1880,7 @@
         "spotlight_issues": 0.31,
         "overall": 0.42
     },
-    "https://www.target.com.au": {
+    "target.com.au": {
         "company": "Target Australia",
         "policy": 0.86,
         "governance": 0.62,
@@ -1889,7 +1889,7 @@
         "spotlight_issues": 0.45,
         "overall": 0.56
     },
-    "https://www.tchibo-coffee.co.uk": {
+    "tchibo-coffee.co.uk": {
         "company": "Tchibo",
         "policy": 0.86,
         "governance": 0.69,
@@ -1898,7 +1898,7 @@
         "spotlight_issues": 0.47,
         "overall": 0.53
     },
-    "https://www.tedbaker.com": {
+    "tedbaker.com": {
         "company": "Ted Baker",
         "policy": 0.55,
         "governance": 0.15,
@@ -1907,7 +1907,7 @@
         "spotlight_issues": 0.12,
         "overall": 0.21
     },
-    "https://www.tesco.com/zones/clothing": {
+    "tesco.com": {
         "company": "Tesco ",
         "policy": 0.84,
         "governance": 0.46,
@@ -1916,7 +1916,7 @@
         "spotlight_issues": 0.18,
         "overall": 0.34
     },
-    "https://www.tezenis.com": {
+    "tezenis.com": {
         "company": "Tezenis",
         "policy": 0.42,
         "governance": 0.31,
@@ -1925,7 +1925,7 @@
         "spotlight_issues": 0.11,
         "overall": 0.11
     },
-    "https://www.childrensplace.com": {
+    "childrensplace.com": {
         "company": "The Children's Place",
         "policy": 0.45,
         "governance": 0,
@@ -1934,7 +1934,7 @@
         "spotlight_issues": 0.04,
         "overall": 0.09
     },
-    "https://www.thenorthface.co.uk": {
+    "thenorthface.co.uk": {
         "company": "The North Face",
         "policy": 0.92,
         "governance": 0.62,
@@ -1943,7 +1943,7 @@
         "spotlight_issues": 0.47,
         "overall": 0.66
     },
-    "https://www.thewarehouse.co.nz": {
+    "thewarehouse.co.nz": {
         "company": "The Warehouse",
         "policy": 0.82,
         "governance": 0.31,
@@ -1952,7 +1952,7 @@
         "spotlight_issues": 0.11,
         "overall": 0.27
     },
-    "https://www.timberland.co.uk": {
+    "timberland.co.uk": {
         "company": "Timberland",
         "policy": 0.92,
         "governance": 0.62,
@@ -1961,7 +1961,7 @@
         "spotlight_issues": 0.47,
         "overall": 0.66
     },
-    "https://www.tkmaxx.com": {
+    "tkmaxx.com": {
         "company": "Tk Maxx",
         "policy": 0.53,
         "governance": 0.31,
@@ -1970,7 +1970,7 @@
         "spotlight_issues": 0.08,
         "overall": 0.13
     },
-    "https://www.tods.com": {
+    "tods.com": {
         "company": "Tod's",
         "policy": 0.33,
         "governance": 0.38,
@@ -1979,7 +1979,7 @@
         "spotlight_issues": 0.13,
         "overall": 0.14
     },
-    "https://www.tomford.co.uk": {
+    "tomford.co.uk": {
         "company": "Tom Ford",
         "policy": 0.02,
         "governance": 0,
@@ -1988,7 +1988,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.tom-tailor.eu": {
+    "tom-tailor.eu": {
         "company": "Tom Tailor",
         "policy": 0.66,
         "governance": 0.31,
@@ -1997,7 +1997,7 @@
         "spotlight_issues": 0.18,
         "overall": 0.42
     },
-    "https://www.tommybahama.com": {
+    "tommybahama.com": {
         "company": "Tommy Bahama",
         "policy": 0.27,
         "governance": 0,
@@ -2006,7 +2006,7 @@
         "spotlight_issues": 0.02,
         "overall": 0.06
     },
-    "https://uk.tommy.com": {
+    "uk.tommy.com": {
         "company": "Tommy Hilfiger",
         "policy": 0.89,
         "governance": 0.46,
@@ -2015,7 +2015,7 @@
         "spotlight_issues": 0.42,
         "overall": 0.59
     },
-    "https://www.asos.com/topman": {
+    "asos.com": {
         "company": "Topman",
         "policy": 0.63,
         "governance": 0.15,
@@ -2024,7 +2024,7 @@
         "spotlight_issues": 0.07,
         "overall": 0.27
     },
-    "https://www.asos.com/topshop": {
+    "asos.com": {
         "company": "Topshop",
         "policy": 0.63,
         "governance": 0.15,
@@ -2033,7 +2033,7 @@
         "spotlight_issues": 0.07,
         "overall": 0.27
     },
-    "https://topvalucollection.jp": {
+    "topvalucollection.jp": {
         "company": "Tory Burch",
         "policy": 0.03,
         "governance": 0,
@@ -2042,7 +2042,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://uk.triumph.com": {
+    "uk.triumph.com": {
         "company": "Triumph",
         "policy": 0.23,
         "governance": 0,
@@ -2051,7 +2051,7 @@
         "spotlight_issues": 0,
         "overall": 0.06
     },
-    "https://www.truworths.co.za": {
+    "truworths.co.za": {
         "company": "Truworths",
         "policy": 0.47,
         "governance": 0.15,
@@ -2060,7 +2060,7 @@
         "spotlight_issues": 0.06,
         "overall": 0.11
     },
-    "https://www.ugg.com": {
+    "ugg.com": {
         "company": "Ugg",
         "policy": 0.67,
         "governance": 0.31,
@@ -2069,7 +2069,7 @@
         "spotlight_issues": 0.33,
         "overall": 0.55
     },
-    "https://www.underarmour.co.uk": {
+    "underarmour.co.uk": {
         "company": "Under Armour",
         "policy": 0.51,
         "governance": 0.23,
@@ -2078,7 +2078,7 @@
         "spotlight_issues": 0.07,
         "overall": 0.22
     },
-    "https://www.uniqlo.com": {
+    "uniqlo.com": {
         "company": "Uniqlo",
         "policy": 0.86,
         "governance": 0.46,
@@ -2087,7 +2087,7 @@
         "spotlight_issues": 0.33,
         "overall": 0.42
     },
-    "https://store.united-arrows.co.jp": {
+    "store.united-arrows.co.jp": {
         "company": "United Arrows",
         "policy": 0.42,
         "governance": 0,
@@ -2096,7 +2096,7 @@
         "spotlight_issues": 0.06,
         "overall": 0.09
     },
-    "https://gb.benetton.com": {
+    "gb.benetton.com": {
         "company": "United Colors Of Benetton",
         "policy": 0.92,
         "governance": 0.46,
@@ -2105,7 +2105,7 @@
         "spotlight_issues": 0.37,
         "overall": 0.6
     },
-    "https://www.urbanoutfitters.com": {
+    "urbanoutfitters.com": {
         "company": "Urban Outfitters",
         "policy": 0.4,
         "governance": 0.31,
@@ -2114,7 +2114,7 @@
         "spotlight_issues": 0.18,
         "overall": 0.16
     },
-    "https://www.valentino.com": {
+    "valentino.com": {
         "company": "Valentino",
         "policy": 0.31,
         "governance": 0.15,
@@ -2123,7 +2123,7 @@
         "spotlight_issues": 0.02,
         "overall": 0.08
     },
-    "https://www.vanheusenindia.com": {
+    "vanheusenindia.com": {
         "company": "Van Heusen",
         "policy": 0.89,
         "governance": 0.46,
@@ -2132,7 +2132,7 @@
         "spotlight_issues": 0.42,
         "overall": 0.59
     },
-    "https://www.vans.co.uk": {
+    "vans.co.uk": {
         "company": "Vans",
         "policy": 0.92,
         "governance": 0.62,
@@ -2141,7 +2141,7 @@
         "spotlight_issues": 0.45,
         "overall": 0.65
     },
-    "https://www.veromoda.com": {
+    "veromoda.com": {
         "company": "Vero Moda",
         "policy": 0.64,
         "governance": 0.31,
@@ -2150,7 +2150,7 @@
         "spotlight_issues": 0.16,
         "overall": 0.26
     },
-    "https://www.versace.com": {
+    "versace.com": {
         "company": "Versace",
         "policy": 0.58,
         "governance": 0.31,
@@ -2159,7 +2159,7 @@
         "spotlight_issues": 0.08,
         "overall": 0.16
     },
-    "https://www.very.co.uk": {
+    "very.co.uk": {
         "company": "Very",
         "policy": 0.7,
         "governance": 0.15,
@@ -2168,7 +2168,7 @@
         "spotlight_issues": 0.11,
         "overall": 0.23
     },
-    "https://www.victoriassecret.co.uk": {
+    "victoriassecret.co.uk": {
         "company": "Victoria's Secret",
         "policy": 0.58,
         "governance": 0.15,
@@ -2177,7 +2177,7 @@
         "spotlight_issues": 0.05,
         "overall": 0.22
     },
-    "https://www.walmart.com": {
+    "walmart.com": {
         "company": "Walmart",
         "policy": 0.77,
         "governance": 0.62,
@@ -2186,7 +2186,7 @@
         "spotlight_issues": 0.18,
         "overall": 0.26
     },
-    "https://www.woolworths.co.za": {
+    "woolworths.co.za": {
         "company": "Woolworths South Africa",
         "policy": 0.7,
         "governance": 0.62,
@@ -2195,7 +2195,7 @@
         "spotlight_issues": 0.23,
         "overall": 0.24
     },
-    "https://eu.wrangler.com": {
+    "eu.wrangler.com": {
         "company": "Wrangler",
         "policy": 0.74,
         "governance": 0.23,
@@ -2204,7 +2204,7 @@
         "spotlight_issues": 0.23,
         "overall": 0.34
     },
-    "http://www.youngor.com": {
+    "http:": {
         "company": "Youngor",
         "policy": 0,
         "governance": 0,
@@ -2213,7 +2213,7 @@
         "spotlight_issues": 0,
         "overall": 0
     },
-    "https://www.zalando.co.uk": {
+    "zalando.co.uk": {
         "company": "Zalando",
         "policy": 0.83,
         "governance": 0.54,
@@ -2222,7 +2222,7 @@
         "spotlight_issues": 0.34,
         "overall": 0.45
     },
-    "https://www.zara.com": {
+    "zara.com": {
         "company": "Zara",
         "policy": 0.89,
         "governance": 0.62,
@@ -2231,7 +2231,7 @@
         "spotlight_issues": 0.42,
         "overall": 0.36
     },
-    "https://www.zeeman.com": {
+    "zeeman.com": {
         "company": "Zeeman",
         "policy": 0.7,
         "governance": 0.54,
